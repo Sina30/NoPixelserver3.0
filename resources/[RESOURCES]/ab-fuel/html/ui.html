@@ -1,0 +1,66 @@
+<head>
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <script src="scripts.js" type="text/javascript"></script>
+    <script src="debounce.min.js" type="text/javascript"></script>
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:300,400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+
+
+<body>
+    <div class="full-screen">
+        <div class="vehicle"> 
+            <div class="speed"> 
+            <svg width="100" height="100">
+                <circle class="backgroundCircle" stroke="#FFFFFF" stroke-width="6" style="stroke-opacity: 0.4;" fill="transparent" r="26" cx="50" cy="50" stroke-dasharray="84 60"/>
+                
+                <circle class="progress progress-speed" stroke="#FFFFFF" stroke-width="6" style="stroke-opacity: 1;" fill="transparent" r="26" cx="50" cy="50" stroke-dasharray="84 60"/>
+            </svg>
+            <p class="speedamount" style="width:50px;height:30px">100</p>
+            <div class="smalltext">MPH</div>
+                              <div class="fuell">
+            <svg class="circle" width="50" height="50">
+                <circle class="backgroundfuel" stroke="#FFFFFF" stroke-width="3.5" style="stroke-opacity: 0.4;" fill="transparent" r="15" cx="25" cy="25" stroke-dasharray="50 35" stroke-dashoffset="0"/>
+
+                <circle class="progress-fuel" stroke="#FFFFFF" stroke-width="3.5" style="stroke-opacity: 1;" fill="transparent" r="15" cx="25" cy="25" stroke-dasharray="50 35" stroke-dashoffset="0"/>
+            </svg>
+            <div class="smalltext"></div>
+            <div class="gas"> <img src='gas.png' width='55%' height='auto'> </div>
+            <div class="belt"> <img src='belt.png' width='35px' height='35px'> </div>
+        </div>
+            </div>
+			
+        </div>
+        <div id="streetwrapper" class="street_wrapper">
+            <div id="StreetsContainer" class="Streets_Container">
+                <div id="compass" class="compass">
+                    <div class="direction">
+                        <div class="image"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="street1_wrapper">
+            <div class="street1_container">
+                <div id="Street1" class="Street_1">Del perrio</div>
+            </div>
+    
+        </div>
+        <div class="street2_wrapper">
+            <div class="street2_container">
+                <div id="Street2" class="Street_2">adam's apple</div>
+            </div>
+        </div>
+        <div class="inditicator_wrapper">
+            <div class="indicator_container">
+                <div id="compassindicator" class="compass_indicator"><img src="indicator.png"></div>
+            </div>
+        </div>
+                <!-- </div> -->
+
+        </div>
+
+</body>

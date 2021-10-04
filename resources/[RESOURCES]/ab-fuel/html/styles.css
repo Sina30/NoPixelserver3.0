@@ -1,0 +1,579 @@
+
+html {
+  overflow: hidden;
+  
+  color:white;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.7px;
+  font-size:16px;
+  
+  font-weight: 600;
+  text-decoration: none;
+  font-style: normal;
+  
+  text-transform: none;
+  text-shadow: 1px 1px 1px rgba(1,1,1,0.7);
+  }
+  
+  .vehicle {
+    width:100%;
+  }
+  
+  .street {
+    position: absolute;
+    display:block;
+    clear:both;
+    margin: auto 0;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+  }
+  
+  .street-txt {
+    position: absolute;
+    left: 50%;
+    margin-top:-0.2%;
+    margin-left: 110px;
+    font-family: Arial;
+  
+    text-align: left;
+    width:15%;
+    font-size:14px;
+  }
+  
+  .street-txt2 {   
+    font-family: Arial;
+    position: absolute;
+    right: 50%;
+    margin-top:-0.2%;
+    margin-right: 110px;
+    text-align: right;
+    width:15%;
+    font-size:14px;
+  }
+  
+  .left {
+    float:left;
+  }
+  
+  .smalltext {
+    font-size:9px;
+    left:39.5%;
+    bottom: 35%;
+    position: absolute;
+  }
+  
+  .speed {
+    left: 15.5%;
+    bottom: 5.7%;
+    position: absolute;
+  }
+  
+  .fuell {
+    left: 56%;
+    bottom: 9%;
+    position: absolute;
+  }
+  
+  .full-screen {
+      display:none;
+  }
+  
+  .speedamount {
+    left: 25%;
+    bottom: 19%;
+    position: absolute;
+    font-size: 19;
+    text-align: center;
+  }
+  
+  .speedamount .stat{
+    background: linear-gradient(to top, #5b5b5b 90%, #1bd295 90%);
+      
+    text-align: center;
+  }
+  
+  .speedamount .stat span{
+    white-space: nowrap;
+      text-align: center;
+    right: 20px;
+  }
+  
+  .atlamount {
+    margin-left:25px;
+  }
+  
+  .belt {
+    position: absolute;
+    left:60%;
+    bottom:110%;
+  }
+  
+  .gas {
+    position: absolute;
+    left:35%;
+    bottom:32%;
+  }
+  
+  .harness {
+    margin-left:25px;
+  }
+  .nos {
+    margin-left:25px;
+  }
+  .engine {
+    margin-left:25px;
+    margin-top:-5px;
+  }
+  
+  .red {
+    color:red;
+  
+  font-weight: bold; 
+  letter-spacing: 1px; 
+  line-height: 1; 
+  }
+  
+  .green {
+    color:green;
+  
+  font-weight: bold; 
+  letter-spacing: 1px; 
+  line-height: 1; 
+  }
+  .blue {
+    color:rgb(102, 143, 255);
+   
+  font-weight: bold; 
+  letter-spacing: 1px; 
+  line-height: 1; 
+  text-shadow: 1px 1px black;
+  }
+  .yellow {
+    color:yellow;
+  
+  font-weight: bold; 
+  letter-spacing: 1px; 
+  line-height: 1; 
+  text-shadow: 1px 1px black;
+  }
+  
+  @media(min-width:2100px){
+    .stat,
+    .stat .icon {
+      height: 44px;
+    }
+  }
+  
+  @media(min-width:2200px){
+    .stat,
+    .stat .icon {
+      height: 46px;
+    }
+    .status{
+      width:280px;
+    }
+    .stat{
+      width:251px;
+    }
+    .stat span {
+      font-size: 14px;
+      line-height: 15px;
+      margin-top: 2px;
+    }
+  }
+  
+  @media(min-width:2300px){
+    .stat,
+    .stat .icon {
+      height: 48px;
+    }
+  }
+  
+  @media(min-width:2400px){
+    .stat,
+    .stat .icon {
+      height: 50px;
+    }
+    .status{
+      width:300px;
+    }
+    .stat{
+      width:271px;
+    }
+  }
+  
+  @media(min-width:2500px){
+    .stat,
+    .stat .icon {
+      height: 52px;
+    }
+  }
+  
+  
+  @media(max-width:1800px){
+    .stat,
+    .stat .icon {
+      height: 38px;
+    }
+  }
+  
+  @media(max-width:1700px){
+    .stat,
+    .stat .icon {
+      height: 36px;
+    }
+  }
+  
+  @media(max-width:1600px){
+    .stat,
+    .stat .icon {
+      height: 34px;
+    }
+    .status{
+      width:240px;
+    }
+    .stat{
+      width:211px;
+    }
+    .stat span {
+      font-size: 12px;
+      line-height: 12px;
+      margin-top: 2px;
+    }
+    .stat .icon img {
+      margin-top: 2px;
+    }
+  }
+  
+  @media(max-width:1500px){
+    .stat,
+    .stat .icon {
+      height: 32px;
+    }
+  }
+  
+  @media(max-width:1400px){
+    .stat,
+    .stat .icon {
+      height: 30px;
+    }
+    .status{
+      width:225px;
+    }
+    .stat{
+      width:196px;
+      margin-bottom: 4px;
+    }
+  }
+  
+  @media(max-width:1300px){
+    .stat,
+    .stat .icon {
+      height: 28px;
+    }
+  }
+  
+  @media(max-width:1200px){
+    .stat,
+    .stat .icon {
+      height: 26px;
+    }
+    .stat span{
+      font-size:10px;
+      line-height: 10px;
+    }
+    .status{
+      width:200px;
+    }
+    .stat{
+      width:171px;
+    }
+  }
+  
+  @media(max-width:1100px){
+    .stat,
+    .stat .icon {
+      height: 24px;
+    }
+  }
+  
+  .progress {
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    transform: rotate(125deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+  }
+  
+  .progress-fuel {
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(156deg);
+    -ms-transform: rotate(156deg);
+    transform: rotate(156deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+  }
+  
+  .backgroundCircle {
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    transform: rotate(165deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+  }
+  
+  .backgroundfuel {
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    transform: rotate(188deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+  }
+  
+  .kolko {
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: 50% 40%;
+  background-size: 45% 45%;
+  
+  }
+    .kolko span {
+      color: rgba(255, 255, 255, 0.8);
+      font-size: 12px;
+  }
+    .kolko svg {
+      opacity: 1 !important; }
+  
+  .kolko span {
+  opacity: 0;
+  }
+  
+  .kolko span:after {
+  position: relative;
+  content: '%';
+  font-size: 7px; }
+  
+  .kolko g {
+  -webkit-transform: translate(16px, 13px);
+  -ms-transform: translate(16px, 13px);
+  transform: translate(16px, 13px); }
+  
+  .licznik {
+    height: 100%;
+    width: 100%; }
+  
+    .licznik .licznik2 {
+      position: relative;
+      height: 200%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%); }
+      .licznik .licznik2 div {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 10px; }
+        .licznik .licznik2 div svg {
+          opacity: .2; }
+      .licznik .licznik2 .active svg {
+        opacity: .8; }
+  
+    .licznik .licznik2 .speedometer {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    -webkit-clip-path: polygon(100% 45%, 80% 45%, 60% 100%, 0% 100%, 0% 0%, 100% 0%);
+    clip-path: polygon(100% 45%, 80% 45%, 60% 100%, 0% 100%, 0% 0%, 100% 0%); }
+    .licznik .licznik2 .speedometer svg {
+      opacity: 1;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: scale(2) translate(-25%, -25%);
+      -ms-transform: scale(2) translate(-25%, -25%);
+      transform: scale(2) translate(-25%, -25%); }
+    .licznik .licznik2 .speedometer .outer {
+      opacity: .3;
+      -webkit-transform: rotate(180deg) scale(1.2);
+      -ms-transform: rotate(180deg) scale(1.2);
+      transform: rotate(180deg) scale(1.2); }
+    .licznik .licznik2 .speedometer .text {
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      margin: 0; }
+      .licznik .licznik2 .speedometer .text .speed {
+      color: white;
+      font-size: 27px;
+      display: block; }
+      .licznik .licznik2 .speedometer .text .kmh {
+      color: rgba(255, 255, 255, 0.5);
+      font-size: 11px;
+      display: block;
+      text-transform: uppercase; }
+  
+  
+  /* Compass -------------------- */
+  .lower {
+    margin-top: 65% !important;
+  }
+  .timelower {
+    padding-bottom: 0px !important;
+  }
+  .hide {
+    display: none !important;
+  }
+  /*.direction {
+    position: absolute;
+    color: #111111;
+    background-color: rgba(226, 226, 226, 0);
+    /* border-radius: 5px; */
+    /*width: 200px;
+    height: 26px;
+    overflow: hidden;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+  }*/
+  
+  .direction>.image {
+    height: 100%;
+    background-position: center;
+    background-size: 400px;
+    background-repeat: repeat;
+    width: 460%;
+    z-index: 1;
+    background-image: url('compass.png');
+  }
+  
+  .icon {
+    position: absolute;
+    color: #111111;
+    background-color: rgba(226, 226, 226, 0);
+    /* border-radius: 5px; */
+    width: 10%;
+    height: 26px;
+    overflow: hidden;
+    float: center;
+    background-image: url('icon.png');
+  }
+
+  .Street_Wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.Streets_Container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    text-align: center;
+}
+
+.Street_1 {
+    float: right;
+    color: white;
+    font-family: Impact, fantasy;
+    font-size: 1.3vh;
+    text-shadow: 0px 0px 1px rgb(0, 0, 0);
+}
+
+.Street_2 {
+    float: left;
+    color: white;
+    font-family: Impact, fantasy;
+    font-size: 1.3vh;
+    text-shadow: 0px 0px 1px rgb(0, 0, 0);
+}
+
+.inditicator_wrapper {
+    position: absolute;
+    top: -12px;
+    left: 0px;
+    width: 100%;
+}
+
+.indicator_container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.compass_indicator {
+    margin: auto;
+}
+
+.Compass {
+    width: 200px;
+    margin: auto;
+}
+
+.Street1_wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 44%;
+}
+
+.Street2_wrapper {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 44%;
+}
+
+
+/* Compass -------------------- */
+
+.lower {
+    margin-top: 53% !important;
+}
+
+.timelower {
+    padding-bottom: 0px !important;
+}
+
+.hide {
+    display: none !important;
+}
+
+.direction {
+    color: #111111;
+    background-color: rgba(255, 20, 20, 0);
+    /* border-radius: 5px; */
+    width: 200px;
+    height: 28px;
+    overflow: hidden;
+    float: left;
+}
+
+.direction>.image {
+    height: 100%;
+    background-position: center center;
+    background-size: 400px;
+    background-repeat: repeat-x;
+    width: 843.5%;
+    z-index: 1;
+    background-image: url('compass.png');
+}
