@@ -1,0 +1,153 @@
+-- local GeneralEntries, SubMenu = MenuEntries['general'], {}
+
+-- local canStartCornering = false
+-- local showSellMethOption = false
+-- local hasCarTarget = false
+
+-- AddEventHandler("cn:target:changed", function(pEntity, pEntityType)
+--   if not pEntity or pEntityType ~= 2 then
+--     hasCarTarget = false
+--     return
+--   end
+--   hasCarTarget = true
+-- end)
+
+-- AddEventHandler("ab-meth:showSellDrugsMenuItem", function(type, b)
+--     if type == "cancorner" then
+--         canStartCornering = b
+--     end
+-- end)
+
+-- AddEventHandler("ab-polyzone:enter", function(name)
+--     if name == "meth_corner" then
+--         showSellMethOption = true
+--     end
+-- end)
+-- AddEventHandler("ab-polyzone:exit", function(name)
+--     if name == "meth_corner" then
+--         showSellMethOption = false
+--     end
+-- end)
+
+-- Citizen.CreateThread(function()
+--     GeneralEntries[#GeneralEntries+1] = {
+--         data = {
+--             id = "sellmeth",
+--             icon = "#walking",
+--             title = "Sell",
+--             event = "ab-meth:cornerSellProduct",
+--         },
+--         isEnabled = function()
+--             return not isDead and showSellMethOption and not canStartCornering and hasCarTarget
+--         end,
+--     }
+--     GeneralEntries[#GeneralEntries+1] = {
+--         data = {
+--             id = "sellmethfromcorner",
+--             icon = "#walking",
+--             title = "Corner",
+--             event = "ab-meth:cornerStartSelling",
+--         },
+--         isEnabled = function()
+--             return not isDead and canStartCornering
+--         end,
+--     }
+--     -- for index, data in ipairs(Options) do
+--     --     SubMenu[index] = data.data.id
+--     --     MenuItems[data.data.id] = {data = data.data, isEnabled = data.isEnabled}
+--     -- end
+--     -- GeneralEntries[#GeneralEntries+1] = {
+--     --     data = {
+--     --         id = "methlab",
+--     --         icon = "#walking",
+--     --         title = "Lab",
+--     --     },
+--     --     subMenus = SubMenu,
+--     --     isEnabled = function()
+--     --         return not isDead and inLab
+--     --     end,
+--     -- }
+-- end)
+
+-- -- local function checkObject(obj)
+-- --     return function()
+-- --         return not isDead and inLab and targetObject == obj
+-- --     end
+-- -- end
+
+-- -- local Options = {
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:startCooking',
+-- --             title = "Start Cooking",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:startCooking",
+-- --         },
+-- --         isEnabled = checkObject("computer"),
+-- --     },
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:adjustFridgeTemp',
+-- --             title = "Adjust Temperature",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:adjustFridgeTemp",
+-- --         },
+-- --         isEnabled = checkObject("fridge"),
+-- --     },
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:adjustSteamLevel',
+-- --             title = "Adjust Levels",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:adjustSteamLevel",
+-- --         },
+-- --         isEnabled = checkObject("distil"),
+-- --     },
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:adjustDistilSettings',
+-- --             title = "Adjust Settings",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:adjustDistilSettings",
+-- --         },
+-- --         isEnabled = checkObject("distil"),
+-- --     },
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:adjustMixerTemp',
+-- --             title = "Adjust Temperature",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:adjustMixerTemp",
+-- --         },
+-- --         isEnabled = checkObject("mixer_temperature"),
+-- --     },
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:addIngredient',
+-- --             title = "Add Ingredient",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:addIngredient",
+-- --         },
+-- --         isEnabled = checkObject("mixer_drop"),
+-- --     },
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:adjustMixerSettings',
+-- --             title = "Adjust Settings",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:adjustMixerSettings",
+-- --         },
+-- --         isEnabled = checkObject("mixer_settings"),
+-- --     },
+-- --     {
+-- --         data = {
+-- --             id = 'ab-meth:pickupIngredient',
+-- --             title = "Pickup",
+-- --             icon = "#police-check",
+-- --             event = "ab-meth:pickupIngredient",
+-- --         },
+-- --         isEnabled = checkObject("ingredient"),
+-- --     },
+-- -- }
+
+
