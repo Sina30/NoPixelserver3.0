@@ -1,0 +1,941 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.06386100" y="-0.35001200" z="-0.35830800"/>
+      <bbMax x="0.06386100" y="0.35001200" z="0.35830800"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.50494680"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Cables1</name>
+      <textureDictionary>v_49_cablemesh</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Cables1</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.33446100" y="-0.34673300" z="-0.68806200"/>
+      <bbMax x="0.33446000" y="0.34673300" z="0.68806200"/>
+      <bsCentre x="-0.00000051" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.83995060"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Cables2</name>
+      <textureDictionary>v_49_cablemesh</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Cables2</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.54629700" y="-0.05489800" z="-0.70957700"/>
+      <bbMax x="0.54629700" y="0.05489900" z="0.70957700"/>
+      <bsCentre x="0.00000000" y="0.00000050" z="0.00000000"/>
+      <bsRadius value="0.89719220"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Cables3</name>
+      <textureDictionary>v_49_cablemesh</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Cables3</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.00000500" y="-1.60799400" z="-0.18593100"/>
+      <bbMax x="-0.00000500" y="1.60799400" z="0.18593100"/>
+      <bsCentre x="-0.00000500" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.61870800"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MO_Emissives</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MO_Emissives</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="2048"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.63610100" y="-4.41199400" z="-1.43196500"/>
+      <bbMax x="2.69043600" y="4.48240500" z="1.49908500"/>
+      <bsCentre x="0.02716756" y="0.03520584" z="0.03355992"/>
+      <bsRadius value="5.38686800"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>v_49_MotelDUCT005</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelDUCT005</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.47205100" y="-1.42010100" z="-0.01475200"/>
+      <bbMax x="1.17153900" y="1.03160800" z="0.89480190"/>
+      <bsCentre x="-0.15025600" y="-0.19424650" z="0.44002500"/>
+      <bsRadius value="1.85921600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_MotelMP_Bed</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Bed</assetName>
+      <extensions>
+        <Item type="CExtensionDefSpawnPoint">
+          <name>V_49_MotelMP_Bed</name>
+          <offsetPosition x="0.41583250" y="1.98805800" z="0.48285600"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.81915230" w="0.57357610"/>
+          <spawnType>PROP_HUMAN_SEAT_BENCH</spawnType>
+          <pedType>any</pedType>
+          <group/>
+          <interior/>
+          <requiredImap/>
+          <availableInMpSp>kBoth</availableInMpSp>
+          <probability value="0.00000000"/>
+          <timeTillPedLeaves value="0.00000000"/>
+          <radius value="0.00000000"/>
+          <start value="0"/>
+          <end value="0"/>
+          <flags/>
+          <highPri value="false"/>
+          <extendedRange value="false"/>
+          <shortRange value="false"/>
+        </Item>
+        <Item type="CExtensionDefSpawnPoint">
+          <name>V_49_MotelMP_Bed</name>
+          <offsetPosition x="0.75598150" y="-1.93744500" z="0.48285600"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.57357700" w="0.81915170"/>
+          <spawnType>PROP_HUMAN_SEAT_BENCH</spawnType>
+          <pedType>any</pedType>
+          <group/>
+          <interior/>
+          <requiredImap/>
+          <availableInMpSp>kBoth</availableInMpSp>
+          <probability value="0.00000000"/>
+          <timeTillPedLeaves value="0.00000000"/>
+          <radius value="0.00000000"/>
+          <start value="0"/>
+          <end value="0"/>
+          <flags/>
+          <highPri value="false"/>
+          <extendedRange value="false"/>
+          <shortRange value="false"/>
+        </Item>
+        <Item type="CExtensionDefSpawnPoint">
+          <name>V_49_MotelMP_Bed</name>
+          <offsetPosition x="-0.97662350" y="-3.14135200" z="0.48285600"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="-0.04361901" w="0.99904820"/>
+          <spawnType>PROP_HUMAN_SEAT_BENCH</spawnType>
+          <pedType>any</pedType>
+          <group/>
+          <interior/>
+          <requiredImap/>
+          <availableInMpSp>kBoth</availableInMpSp>
+          <probability value="0.00000000"/>
+          <timeTillPedLeaves value="0.00000000"/>
+          <radius value="0.00000000"/>
+          <start value="0"/>
+          <end value="0"/>
+          <flags/>
+          <highPri value="false"/>
+          <extendedRange value="false"/>
+          <shortRange value="false"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.32599700" y="-0.16757900" z="-0.85363000"/>
+      <bbMax x="0.32599700" y="1.67356300" z="0.85363000"/>
+      <bsCentre x="0.00000000" y="0.75299190" z="0.00000000"/>
+      <bsRadius value="1.29707700"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_MotelMP_Clothes</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Clothes</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.04992800" y="-0.02483500" z="-0.77625300"/>
+      <bbMax x="1.04993200" y="0.02483400" z="0.77625300"/>
+      <bsCentre x="0.00000203" y="-0.00000050" z="0.00000000"/>
+      <bsRadius value="1.30596300"/>
+      <hdTextureDist value="6.00000000"/>
+      <name>V_49_MotelMP_Curtains</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Curtains</assetName>
+      <extensions>
+        <Item type="CExtensionDefParticleEffect">
+          <name>V_49_MotelMP_Curtains</name>
+          <offsetPosition x="-0.11431890" y="0.55491350" z="-0.25772500"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <fxName>amb_dust_motes</fxName>
+          <fxType value="0"/>
+          <boneTag value="0"/>
+          <scale value="1.00000000"/>
+          <probability value="100"/>
+          <flags value="0"/>
+          <color value="0xFFFFFFFF"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.73701900" y="0.00000000" z="-0.58949500"/>
+      <bbMax x="0.73700390" y="0.00000100" z="0.58949500"/>
+      <bsCentre x="-0.00000751" y="0.00000050" z="0.00000000"/>
+      <bsRadius value="0.94376390"/>
+      <hdTextureDist value="6.00000000"/>
+      <name>V_49_MotelMP_Glass</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Glass</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.81034600" y="4.30784400" z="-0.77409800"/>
+      <bbMax x="1.34793000" y="4.31190800" z="0.57963800"/>
+      <bsCentre x="0.26879200" y="4.30987600" z="-0.09723002"/>
+      <bsRadius value="1.27385000"/>
+      <hdTextureDist value="7.00000000"/>
+      <name>V_49_MotelMP_Mirror</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Mirror</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.59441400" y="-4.23035200" z="-1.34494400"/>
+      <bbMax x="2.59441300" y="4.21790900" z="1.34494400"/>
+      <bsCentre x="-0.00000048" y="-0.00622129" z="0.00000000"/>
+      <bsRadius value="5.13645200"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MotelMP_Reflect</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelMP_Reflect</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="30.00000000"/>
+      <flags value="9216"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.00080900" y="-0.35648900" z="-0.20798800"/>
+      <bbMax x="0.00414200" y="0.35649000" z="0.20798800"/>
+      <bsCentre x="0.00166650" y="0.00000048" z="0.00000000"/>
+      <bsRadius value="0.41273460"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_MotelMP_screen</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary>v_int_49</clipDictionary>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_screen</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.59441400" y="-4.34354600" z="-1.34494400"/>
+      <bbMax x="2.59441300" y="4.21541200" z="1.34494400"/>
+      <bsCentre x="-0.00000048" y="-0.06406689" z="0.00000000"/>
+      <bsRadius value="5.18206500"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MotelMP_Shell</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelMP_Shell</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.59692500" y="-4.22466800" z="-1.23977600"/>
+      <bbMax x="2.59691700" y="4.22466900" z="1.23977600"/>
+      <bsCentre x="-0.00000405" y="0.00000048" z="0.00000000"/>
+      <bsRadius value="5.11164000"/>
+      <hdTextureDist value="7.00000000"/>
+      <name>V_49_MotelMP_Stuff</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Stuff</assetName>
+      <extensions>
+        <Item type="CExtensionDefLightShaft">
+          <name>V_49_MotelMP_Stuff</name>
+          <offsetPosition x="0.81764220" y="-4.22238100" z="0.45797000"/>
+          <cornerA x="0.78264220" y="-4.22238100" z="1.03067600"/>
+          <cornerB x="0.78264220" y="-4.22238100" z="-0.11473560"/>
+          <cornerC x="0.85264230" y="-4.22238100" z="-0.11473560"/>
+          <cornerD x="0.85264230" y="-4.22238100" z="1.03067600"/>
+          <direction x="-0.52883050" y="0.78774750" z="-0.31589890"/>
+          <directionAmount value="1.00000000"/>
+          <length value="3.53700000"/>
+          <fadeInTimeStart value="0.00000000"/>
+          <fadeInTimeEnd value="0.00000000"/>
+          <fadeOutTimeStart value="0.00000000"/>
+          <fadeOutTimeEnd value="0.00000000"/>
+          <fadeDistanceStart value="0.00000000"/>
+          <fadeDistanceEnd value="0.00000000"/>
+          <color value="0xFFFFFFFF"/>
+          <intensity value="2.50000000"/>
+          <flashiness value="0"/>
+          <flags value="35"/>
+          <densityType>LIGHTSHAFT_DENSITYTYPE_QUADRATIC_GRADIENT</densityType>
+          <volumeType>LIGHTSHAFT_VOLUMETYPE_SHAFT</volumeType>
+          <softness value="0.00000000"/>
+          <scaleBySunIntensity value="true"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.76815400" y="-0.06405800" z="-0.61835500"/>
+      <bbMax x="0.76814500" y="0.04115300" z="0.61835500"/>
+      <bsCentre x="-0.00000453" y="-0.01145250" z="0.00000000"/>
+      <bsRadius value="0.98751400"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MotelMP_winframe</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelMP_winframe</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.94417300" y="-0.06255300" z="-0.26945400"/>
+      <bbMax x="2.07265900" y="0.01920200" z="1.49629700"/>
+      <bsCentre x="0.06424296" y="-0.02167550" z="0.61342150"/>
+      <bsRadius value="2.19428200"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_NeonSign</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_NeonSign</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.89241500" y="-2.49697600" z="-1.56189400"/>
+      <bbMax x="3.89241500" y="2.49697600" z="1.56189400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="4.88111600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_SHADOWMAP</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_SHADOWMAP</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.59788800" y="-0.53008300" z="-0.68423890"/>
+      <bbMax x="0.59788800" y="0.53008300" z="0.68423890"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.05197000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Tat2Chair</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Chair</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.92038700" y="-2.57320900" z="-0.21194300"/>
+      <bbMax x="3.89481300" y="2.41685300" z="2.94673700"/>
+      <bsCentre x="-0.01278710" y="-0.07817817" z="1.36739700"/>
+      <bsRadius value="4.89784000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Tat2Dirt</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Dirt</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.26374000" y="-1.52642000" z="0.49866600"/>
+      <bbMax x="2.44446700" y="1.49004300" z="0.49866800"/>
+      <bsCentre x="0.09036350" y="-0.01818848" z="0.49866700"/>
+      <bsRadius value="2.79581200"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Tat2Emissives</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Emissives</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="15.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.89347900" y="-2.51400500" z="-2.22334000"/>
+      <bbMax x="3.89347900" y="2.45479400" z="0.50397700"/>
+      <bsCentre x="0.00000000" y="-0.02960563" z="-0.85968150"/>
+      <bsRadius value="4.81570200"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Tat2Lighting</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Lighting</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="15.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.89467700" y="-2.42743100" z="-1.53099100"/>
+      <bbMax x="3.92555600" y="2.51320000" z="1.53099100"/>
+      <bsCentre x="0.01543951" y="0.04288435" z="0.00000000"/>
+      <bsRadius value="4.87189900"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Tat2Pipes</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Pipes</assetName>
+      <extensions>
+        <Item type="CExtensionDefParticleEffect">
+          <name>V_49_Tat2Pipes</name>
+          <offsetPosition x="1.87343200" y="-1.50928200" z="-0.42383700"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <fxName>amb_dust_motes</fxName>
+          <fxType value="0"/>
+          <boneTag value="0"/>
+          <scale value="1.00000000"/>
+          <probability value="100"/>
+          <flags value="0"/>
+          <color value="0xFFFFFFFF"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.89347600" y="-2.45387800" z="-1.55987800"/>
+      <bbMax x="3.89347600" y="2.54148500" z="1.55987800"/>
+      <bsCentre x="0.00000000" y="0.04380369" z="0.00000000"/>
+      <bsRadius value="4.88167900"/>
+      <hdTextureDist value="7.00000000"/>
+      <name>V_49_Tat2Reflect</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Reflect</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.89347600" y="-2.45387800" z="-1.55987800"/>
+      <bbMax x="3.89347600" y="2.54148500" z="1.55987800"/>
+      <bsCentre x="0.00000000" y="0.04380369" z="0.00000000"/>
+      <bsRadius value="4.88167900"/>
+      <hdTextureDist value="7.00000000"/>
+      <name>V_49_Tat2Shell</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Shell</assetName>
+      <extensions>
+        <Item type="CExtensionDefLightShaft">
+          <name>V_49_Tat2Shell</name>
+          <offsetPosition x="1.27804500" y="-2.38816100" z="1.06011300"/>
+          <cornerA x="-0.56047280" y="-2.38821100" z="0.99854440"/>
+          <cornerB x="3.11626600" y="-2.38811100" z="0.99024590"/>
+          <cornerC x="3.11656300" y="-2.38811100" z="1.12168200"/>
+          <cornerD x="-0.56017610" y="-2.38821100" z="1.12998000"/>
+          <direction x="0.25923460" y="0.92947580" z="-0.26243520"/>
+          <directionAmount value="1.00000000"/>
+          <length value="2.47400000"/>
+          <fadeInTimeStart value="0.00000000"/>
+          <fadeInTimeEnd value="0.00000000"/>
+          <fadeOutTimeStart value="0.00000000"/>
+          <fadeOutTimeEnd value="0.00000000"/>
+          <fadeDistanceStart value="0.00000000"/>
+          <fadeDistanceEnd value="0.00000000"/>
+          <color value="0xFFFFFFFF"/>
+          <intensity value="6.00000000"/>
+          <flashiness value="0"/>
+          <flags value="99"/>
+          <densityType>LIGHTSHAFT_DENSITYTYPE_QUADRATIC_GRADIENT</densityType>
+          <volumeType>LIGHTSHAFT_VOLUMETYPE_SHAFT</volumeType>
+          <softness value="1.00000000"/>
+          <scaleBySunIntensity value="true"/>
+        </Item>
+        <Item type="CExtensionDefLightShaft">
+          <name>V_49_Tat2Shell</name>
+          <offsetPosition x="1.27804500" y="-2.38816100" z="0.67925400"/>
+          <cornerA x="-0.56045020" y="-2.38821100" z="0.62768540"/>
+          <cornerB x="3.11628900" y="-2.38811100" z="0.61938700"/>
+          <cornerC x="3.11654000" y="-2.38811100" z="0.73082270"/>
+          <cornerD x="-0.56019870" y="-2.38821100" z="0.73912110"/>
+          <direction x="0.24520870" y="0.91875060" z="-0.30946720"/>
+          <directionAmount value="1.00000000"/>
+          <length value="2.55300000"/>
+          <fadeInTimeStart value="0.00000000"/>
+          <fadeInTimeEnd value="0.00000000"/>
+          <fadeOutTimeStart value="0.00000000"/>
+          <fadeOutTimeEnd value="0.00000000"/>
+          <fadeDistanceStart value="0.00000000"/>
+          <fadeDistanceEnd value="0.00000000"/>
+          <color value="0xFFFFFFFF"/>
+          <intensity value="7.00000000"/>
+          <flashiness value="0"/>
+          <flags value="99"/>
+          <densityType>LIGHTSHAFT_DENSITYTYPE_QUADRATIC_GRADIENT</densityType>
+          <volumeType>LIGHTSHAFT_VOLUMETYPE_SHAFT</volumeType>
+          <softness value="1.00000000"/>
+          <scaleBySunIntensity value="true"/>
+        </Item>
+        <Item type="CExtensionDefLightShaft">
+          <name>V_49_Tat2Shell</name>
+          <offsetPosition x="1.27804500" y="-2.38816100" z="0.19024000"/>
+          <cornerA x="-0.56094670" y="-2.38821000" z="-0.08132804"/>
+          <cornerB x="3.11579200" y="-2.38811100" z="-0.08962653"/>
+          <cornerC x="3.11703600" y="-2.38811200" z="0.46180810"/>
+          <cornerD x="-0.55970220" y="-2.38821100" z="0.47010660"/>
+          <direction x="0.27810280" y="0.90552030" z="-0.32045550"/>
+          <directionAmount value="1.00000000"/>
+          <length value="1.76800000"/>
+          <fadeInTimeStart value="0.00000000"/>
+          <fadeInTimeEnd value="0.00000000"/>
+          <fadeOutTimeStart value="0.00000000"/>
+          <fadeOutTimeEnd value="0.00000000"/>
+          <fadeDistanceStart value="0.00000000"/>
+          <fadeDistanceEnd value="0.00000000"/>
+          <color value="0xFFFFFFFF"/>
+          <intensity value="6.00000000"/>
+          <flashiness value="0"/>
+          <flags value="99"/>
+          <densityType>LIGHTSHAFT_DENSITYTYPE_QUADRATIC_GRADIENT</densityType>
+          <volumeType>LIGHTSHAFT_VOLUMETYPE_SHAFT</volumeType>
+          <softness value="1.00000000"/>
+          <scaleBySunIntensity value="true"/>
+        </Item>
+        <Item type="CExtensionDefLightShaft">
+          <name>V_49_Tat2Shell</name>
+          <offsetPosition x="1.26754700" y="-2.38816100" z="0.88823790"/>
+          <cornerA x="-0.57094830" y="-2.38821100" z="0.83666930"/>
+          <cornerB x="3.10579000" y="-2.38811100" z="0.82837100"/>
+          <cornerC x="3.10604200" y="-2.38811100" z="0.93980660"/>
+          <cornerD x="-0.57069680" y="-2.38821100" z="0.94810500"/>
+          <direction x="0.29526180" y="0.90787710" z="-0.29762350"/>
+          <directionAmount value="1.00000000"/>
+          <length value="2.10000000"/>
+          <fadeInTimeStart value="0.00000000"/>
+          <fadeInTimeEnd value="0.00000000"/>
+          <fadeOutTimeStart value="0.00000000"/>
+          <fadeOutTimeEnd value="0.00000000"/>
+          <fadeDistanceStart value="0.00000000"/>
+          <fadeDistanceEnd value="0.00000000"/>
+          <color value="0xFFFFFFFF"/>
+          <intensity value="9.00000000"/>
+          <flashiness value="0"/>
+          <flags value="99"/>
+          <densityType>LIGHTSHAFT_DENSITYTYPE_QUADRATIC_GRADIENT</densityType>
+          <volumeType>LIGHTSHAFT_VOLUMETYPE_SHAFT</volumeType>
+          <softness value="1.00000000"/>
+          <scaleBySunIntensity value="true"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="15.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.25816200" y="-2.41880200" z="-1.34650000"/>
+      <bbMax x="3.63508800" y="2.31142800" z="0.61098400"/>
+      <bsCentre x="0.68846300" y="-0.05368686" z="-0.36775810"/>
+      <bsRadius value="3.90311500"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Tat2Stuff</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Stuff</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.11791100" y="-0.03359800" z="-1.11339400"/>
+      <bbMax x="2.11782100" y="0.03359800" z="1.11339400"/>
+      <bsCentre x="-0.00004506" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="2.39293400"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_Tat2Windows</name>
+      <textureDictionary>v_49_tat2txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_Tat2Windows</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CMloArchetypeDef">
+      <lodDist value="30.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bbMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.00000000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>v_Motel_MP</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>v_Motel_MP</physicsDictionary>
+      <assetType>ASSET_TYPE_ASSETLESS</assetType>
+      <assetName>v_Motel_MP</assetName>
+      <extensions/>
+      <mloFlags value="0"/>
+      <entities>
+        <Item type="CEntityDef">
+          <archetypeName>V_ILev_MLDoor02</archetypeName>
+          <flags value="555221026"/>
+          <guid value="3770398919"/>
+          <position x="1.16725200" y="2.76293200" z="1.15000100"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Sink_06</archetypeName>
+          <flags value="555220994"/>
+          <guid value="814817518"/>
+          <position x="1.79850800" y="4.30968100" z="0.00459700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_LD_Toilet_01</archetypeName>
+          <flags value="555220994"/>
+          <guid value="3434040055"/>
+          <position x="2.93478400" y="3.22601700" z="0.33201500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Stuff_cust</archetypeName>
+          <flags value="1572866"/>
+          <guid value="268353303"/>
+          <position x="0.68925480" y="0.34167480" z="1.23977700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Curtains</archetypeName>
+          <flags value="5767170"/>
+          <guid value="1767311811"/>
+          <position x="1.55156000" y="-3.83100100" z="1.63457500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Glass</archetypeName>
+          <flags value="1572866"/>
+          <guid value="558616740"/>
+          <position x="1.43190000" y="-3.92315100" z="1.69329600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_ILev_MotelDoorCSO</archetypeName>
+          <flags value="555221024"/>
+          <guid value="3609508934"/>
+          <position x="-1.45536800" y="-3.96160900" z="1.15000200"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="-0.00000100"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_49_MotelMP_winframe</archetypeName>
+          <flags value="5767168"/>
+          <guid value="3243476941"/>
+          <position x="1.43699600" y="-3.92706300" z="1.68969700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_49_MotelMP_Shell_2</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3592793201"/>
+          <position x="0.69067380" y="0.34826090" z="1.34494300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+      </entities>
+      <rooms>
+        <Item>
+          <name>limbo</name>
+          <bbMin x="-1.94542700" y="-4.06373300" z="-0.08702206"/>
+          <bbMax x="3.38111000" y="4.83066600" z="2.84402800"/>
+          <blend value="1.00000000"/>
+          <timecycleName/>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="1"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            8
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>MotelMP_Room</name>
+          <bbMin x="-2.00757000" y="-5.40805000" z="-0.00109900"/>
+          <bbMax x="3.22845600" y="3.23074900" z="2.47955100"/>
+          <blend value="1.00000000"/>
+          <timecycleName>int_motelroom</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="1"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            0
+            1
+            2
+            3
+            4
+            5
+            6
+            7
+          </attachedObjects>
+        </Item>
+      </rooms>
+      <portals>
+        <Item>
+          <roomFrom value="1"/>
+          <roomTo value="0"/>
+          <flags value="4"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            2.06558200	4.55085200	1.82676500
+            2.06558200	4.55085200	0.45831690
+            -0.14511040	4.55085200	0.45831690
+            -0.14511040	4.55085200	1.82676500
+          </corners>
+          <attachedObjects/>
+        </Item>
+      </portals>
+      <entitySets/>
+      <timeCycleModifiers/>
+    </Item>
+  </archetypes>
+  <name>v_int_49</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>

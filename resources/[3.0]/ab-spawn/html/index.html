@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+        <script src="vue.min.js" type="text/javascript"></script>
+
+        <!--Import Google Icon Font-->
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,700i" rel="stylesheet" />
+
+        <!-- Custom styling -->
+        <link href="style.css" rel="stylesheet" />
+
+        <!--Import materialize.css-->
+        <link type="text/css" rel="stylesheet" href="css/all.min.css" />
+        <!-- FontAwesome -->
+        <link type="text/css" rel="stylesheet" href="css/balloon.min.css" />
+        <!-- Tooltips -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+        <title>NoPixel Character Selection</title>
+    </head>
+
+    <body>
+        <div id="app">
+            <div class="character-container noselect" id="mainBox">
+                <div class="character-box" id="charbox" v-if="currentCharData && showDeleteConfirmation == null && !showNewChar">
+                    <div class="character-button" v-if="displayCharSelect">
+                        <div class="character-name-wrapper">
+                            <div class="character-name" v-bind:class="{'name-small' : longName}">{{ currentCharData.first_name }} {{ currentCharData.last_name }}</div>
+                        </div>
+
+                        <div class="character-button-wrapper">
+                            <div class="character-button-left" v-bind:class="{'buttons-inactive' : fadeHover }">
+                                <button class="character-box-btn close-btn waves-effect waves-light" v-on:click="deleteChar">Delete</button>
+                                <button class="character-box-btn spawn-btn waves-effect waves-light" v-on:click="spawn">
+                                    Spawn
+                                    <i class="fas fa-map"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="character-header" v-if="!showNewChar && !currentCharData && showDeleteConfirmation == null">
+                    <div class="character-button" v-if="displayCharSelect">
+                      <div class="character-name-wrapper">
+                          <div class="character-name" v-bind:class="{'name-small' : longName}">Select a Character</div>
+                      </div>
+
+                      <div class="character-button-wrapper">
+                          <div class="character-button-left" v-bind:class="{'buttons-inactive' : fadeHover }">
+                              <button class="character-box-btn close-btn btn-disabled">Delete</button>
+                              <button class="character-box-btn spawn-btn btn-disabled">
+                                  Spawn
+                                  <i class="fas fa-map"></i>
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+
+                <div class="bottom-buttons" v-if="!showNewChar">
+                    <div class="character-new-prompt" id="newcharButton">
+                        <div class="character-text-new" v-on:click="showNewChar = true">
+                            <i class="fas fa-plus" style="padding-top: 0.6vh; padding-right: 0.05vh;"></i>
+                        </div>
+                    </div>
+
+                    <div class="character-help-prompt" id="helpButton">
+                        <div class="character-text-help" v-on:click="showHelpF">
+                            <i class="far fa-question-circle" style="padding-top: 0.6vh;"></i>
+                        </div>
+                    </div>
+
+                    <div class="character-help-prompt" id="refreshButton">
+                        <div class="character-text-help" v-on:click="refreshCharacters">
+                            <i class="fas fa-redo" style="padding-top: 0.6vh;"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="new-help-container noselect" id="helpScreen" v-if="showHelp && !showNewChar">
+                <div class="new-help-box">
+                    <div style="font-size: 2.2vh">Help Menu</div>
+
+                    <div class="new-help-divider"></div>
+
+                    <div class="new-help-header-text">
+                        <div class="new-help-header-key">Action</div>
+                        <div class="new-help-header-info">Description</div>
+                    </div>
+
+                    <div class="new-help-text">
+                        <div class="new-help-key">Single click</div>
+                        <div class="new-help-info">Select character</div>
+                    </div>
+
+                    <div class="new-help-text">
+                        <div class="new-help-key">Double click</div>
+                        <div class="new-help-info">Spawn selected character</div>
+                    </div>
+
+                    <div class="new-help-text">
+                        <div class="new-help-key">Hover</div>
+                        <div class="new-help-info">Display current character</div>
+                    </div>
+
+                    <div style="padding-top: 3%; font-size: 1.6vh">Creating a New Character:</div>
+
+                    <div class="new-help-text">
+                        <div class="new-help-key">Double Click</div>
+                        <div class="new-help-info">On blank character slot</div>
+                    </div>
+
+                    <div class="new-help-text">
+                        <div class="new-help-key">Icon</div>
+                        <div class="new-help-info">Lower left plus icon</div>
+                    </div>
+
+                    <div style="padding-top: 3%; font-size: 1.6vh">Toggle Help:</div>
+                    <div class="new-help-text">
+                        <div class="new-help-key">H</div>
+                        <div class="new-help-info">Toggle help menu</div>
+                    </div>
+
+                    <div class="new-help-text">
+                        <div class="new-help-key">Icon</div>
+                        <div class="new-help-info">Question mark to Toggle menu</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="new-character-container" v-if="showNewChar">
+                <div class="new-character-box">
+                    <form id="new-character-form" @submit.prevent="onSubmit">
+                        <div class="new-character-gender-selection">
+                            <input id="male" type="radio" name="gender" value="M" checked />
+                            <label for="male">
+                                <img class="new-character-image" src="images/male.png" draggable="false" />
+                            </label>
+                            <input id="female" type="radio" name="gender" value="F" />
+                            <label for="female">
+                                <img class="new-character-image" src="images/female.png" draggable="false" />
+                            </label>
+                        </div>
+                        <div class="new-character-information">
+                            <div class="form-group">
+                                <label for="first_name" class="text-centering">First Name</label>
+                                <input id="first_name" name="first_name" type="text" maxlength="20" required />
+                            </div>
+                            <div class="form-group">
+                                <label for="last_name" class="text-centering">Last Name</label>
+                                <input id="last_name" name="last_name" type="text" maxlength="20" required />
+                            </div>
+                            <div class="form-group">
+                                <label for="dob" class="text-centering">Born</label>
+                                <input id="dob" name="dob" type="date" value="2000-01-01" max="2090-01-01" />
+                            </div>
+                        </div>
+                        <div class="new-character-submit-container">
+                            <button type="button" class="new-character-submit" v-on:click="exitCharSelect">Cancel</button>
+                            <button type="submit" class="new-character-submit new-character-create">Create</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="delete-character-container" id="deletebox" v-if="showDeleteConfirmation != null">
+                <div class="delete-character-box">
+                    <h1 style="margin: 0px; text-align: center; font-size: 2.4vh">Are you sure you want to delete this character?</h1>
+
+                    <div class="new-help-divider" style="margin-bottom: 4%; padding-bottom: 2%"></div>
+
+                    <h2 style="margin: 0px; text-align: center; font-size: 2.6vh; padding-top: 0px">
+                        {{ showDeleteConfirmation.first_name }} {{ showDeleteConfirmation.last_name }}
+                    </h2>
+
+                    <div class="delete-character-button-wrapper">
+                        <button class="delete-cancel character-box-btn waves-effect waves-light" v-on:click="showDeleteConfirmation = null">
+                            Cancel
+                        </button>
+                        <button class="delete-delete character-box-btn waves-effect waves-light" v-on:click="confirmDelete">
+                            Yes, Delete
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="tranCon" class="Transistion-Container">
+                <div class="logo"></div>
+                <div class="Transistion-col">
+                    <div id="animTran1" class="Transistion-left"></div>
+                    <div id="animTran2" class="Transistion-right"></div>
+                </div>
+            </div>
+
+            <div class="spawn-box" id="spawnBox" v-if="canShow">
+			<div class="spawn-zeropoint" id="zeropoint"></div>
+			<div v-for="spawn in spawns" v-if="spawn.id == spawn.parent" v-if="spawns.length != null" >
+				<div class="spawn-newPoint":style="{ 'margin-top': `${spawn.posX}px`, 'margin-left': `${spawn.posY}px` }" >
+					<div class="spawn-icon" @mouseover="mouseoverSpawn(spawn.id)" @mouseleave="mouseleaveSpawn(spawn.id) " @click="spawnClickInput(spawn.info,spawn.id)"  v-on:click.right="rightClickSpawn(spawn.id,true)" >
+                        <!-- Icons -->
+                        <i class="fas fa-chevron-circle-right" v-if="spawn.stacked"></i>
+                        <i class="fas fa-star favorite" v-else-if="currentSpawnFav && spawn.info.trim() == currentSpawnFav.trim()"></i>
+                        <i class="fas fa-building" :class="[spawn.info.trim().replace(' ', '')]" v-else-if="spawn.info.includes('Apartments')"></i>
+                        <i class="fas fa-taxi" v-else-if="spawn.info.includes('Rooster Cab')"></i>
+                        <i class="fab fa-dev"  v-else-if="spawn.info.includes('Dev Spawn')"></i>
+
+                        <!-- Default places -->
+                        <i class="fas fa-map-marker-alt" v-else-if="spawn.info.includes('Vinewood Blvd Taxi Stand')"></i>
+                        <i class="fas fa-map-marker-alt" v-else-if="spawn.info.includes('The Boardwalk')"></i>
+                        <i class="fas fa-map-marker-alt" v-else-if="spawn.info.includes('Paleto Gas Station')"></i>
+                        <i class="fas fa-map-marker-alt" v-else-if="spawn.info.includes('Paleto Bus Stop')"></i>
+                        <i class="fas fa-map-marker-alt" v-else-if="spawn.info.includes('Harmony Motel')"></i>
+                        <i class="fas fa-map-marker-alt" v-else-if="spawn.info.includes('LS Bus Station')"></i>
+                        <i class="fas fa-map-marker-alt" v-else-if="spawn.info.includes('The Richman Hotel')"></i>
+
+                        <!-- Else, the spawn is a home -->
+                        <i class="fas fa-home homeIcon" v-else></i>
+                    </div>
+                </div>
+			</div>
+		</div>
+
+		<div class="spawn-hover-select" id="hoverSelect" v-if="spawns.length != null">
+			<div v-if="spawnsClose[currentSpawnShowing] && spawnsClose[currentSpawnShowing].length >= 1" >
+				<div class="module__contents" v-on:click="selectSpawn(spawns[currentSpawnShowing].info)" v-on:click.right="rightClickSpawn(currentSpawnShowing,false)">
+					{{spawns[currentSpawnShowing].info}}
+				</div>
+				<div v-for="spawnID in spawnsClose[currentSpawnShowing]">
+					<div class="module__contents" v-on:click="selectSpawn(spawns[spawnID].info)" v-on:click.right="rightClickSpawn(spawnID,false)">
+						{{spawns[spawnID].info}}
+					</div>
+				</div>
+			</div>
+
+			<div v-else>
+				<div class="spawn-hover-text" v-if="spawns[currentSpawnShowing]" v-on:click="selectSpawn(spawns[currentSpawnShowing].info)" v-on:click.right="rightClickSpawn(currentSpawnShowing,false)">
+					{{spawns[currentSpawnShowing].info}}
+				</div>
+			</div>
+		</div>
+
+        <div class="spawn-help" v-if="spawns.length != null" >
+            <h4>Select Location</h4>
+            <small>Right click on a location to favorite it.</small>
+            <hr>
+            <button class="fav-button" v-on:click="selectSpawn(currentSpawnFav)" type="button" v-if="currentSpawnFav"><i class="far fa-star"></i> {{currentSpawnFav}}</button>
+            <button class="fav-button" type="button" v-else>No Favorite Selected</button>
+        </div>
+        
+        </div>
+
+        <script src="script.js" type="text/javascript"></script>
+        <script type="text/javascript" src="js/debounce.min.js"></script>
+        <script type="text/javascript" src="js/moment.min.js"></script>
+    </body>
+</html>

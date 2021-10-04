@@ -1,0 +1,3693 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-5.00012900" y="-5.00088400" z="-1.49888200"/>
+      <bbMax x="6.76323700" y="5.00088400" z="2.09888200"/>
+      <bsCentre x="0.88155410" y="0.00000000" z="0.30000000"/>
+      <bsRadius value="7.92710600"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>v_72_Beams</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_Beams</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.08459300" y="-0.13050200" z="-0.22807400"/>
+      <bbMax x="0.08459200" y="-0.00114800" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06582500" z="0.00534400"/>
+      <bsRadius value="0.25655990"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT002</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT002</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.08459300" y="-0.12935400" z="-0.22807400"/>
+      <bbMax x="0.08459200" y="0.00000000" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06467700" z="0.00534400"/>
+      <bsRadius value="0.25655990"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT003</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT003</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07727400" y="-0.12276800" z="-0.22807400"/>
+      <bbMax x="0.07727300" y="0.00000000" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06138400" z="0.00534400"/>
+      <bsRadius value="0.25342290"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT007</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT007</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07727400" y="-0.12276800" z="-0.22807400"/>
+      <bbMax x="0.07727300" y="0.00000000" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06138400" z="0.00534400"/>
+      <bsRadius value="0.25342290"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT009</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT009</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.08459300" y="-0.13050200" z="-0.22807400"/>
+      <bbMax x="0.08459200" y="-0.00114800" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06582500" z="0.00534400"/>
+      <bsRadius value="0.25655990"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT01</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT01</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.08459300" y="-0.13050200" z="-0.22807400"/>
+      <bbMax x="0.08459200" y="-0.00114800" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06582500" z="0.00534400"/>
+      <bsRadius value="0.25655990"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT010</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT010</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.08459300" y="-0.13050200" z="-0.22807400"/>
+      <bbMax x="0.08459200" y="-0.00114800" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06582500" z="0.00534400"/>
+      <bsRadius value="0.25655990"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT011</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT011</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.08459300" y="-0.13050200" z="-0.22807400"/>
+      <bbMax x="0.08459200" y="-0.00114800" z="0.23876200"/>
+      <bsCentre x="-0.00000050" y="-0.06582500" z="0.00534400"/>
+      <bsRadius value="0.25655990"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_BIKE_MOUNT012</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_BIKE_MOUNT012</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536879104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.05003400" y="-0.07668800" z="0.38225400"/>
+      <bbMax x="0.05003400" y="0.02339000" z="0.50587100"/>
+      <bsCentre x="0.00000000" y="-0.02664900" z="0.44406250"/>
+      <bsRadius value="0.09395527"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_72_bulb</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_bulb</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.46082600" y="-0.89114000" z="-0.00214400"/>
+      <bbMax x="1.46082600" y="0.89114000" z="0.00026600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.00093900"/>
+      <bsRadius value="1.71118200"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_CARPET01</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_CARPET01</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.46082600" y="-0.89114000" z="-0.00214400"/>
+      <bbMax x="1.46082600" y="0.89114000" z="0.00026600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.00093900"/>
+      <bsRadius value="1.71118200"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_CARPET02</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_CARPET02</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-7.16082100" y="-15.48662000" z="-0.09221000"/>
+      <bbMax x="7.06713000" y="13.66791000" z="0.00039200"/>
+      <bsCentre x="-0.04684544" y="-0.90935320" z="-0.04590900"/>
+      <bsRadius value="16.22059000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>v_72_CeilingDet</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_CeilingDet</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-6.37749900" y="-5.78619500" z="-0.16580600"/>
+      <bbMax x="6.20593000" y="5.78619500" z="0.19084400"/>
+      <bsCentre x="-0.08578443" y="0.00000000" z="0.01251900"/>
+      <bsRadius value="8.54971000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_CeilingLights</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_CeilingLights</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-6.40866500" y="-3.81502500" z="-0.38574200"/>
+      <bbMax x="5.58553200" y="21.49672000" z="0.19084400"/>
+      <bsCentre x="-0.41156630" y="8.84084600" z="-0.09744901"/>
+      <bsRadius value="14.00783000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_CeilingLights02</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_CeilingLights02</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-5.87217700" y="-12.93032000" z="0.05343700"/>
+      <bbMax x="5.84447400" y="24.79255000" z="0.05343700"/>
+      <bsCentre x="-0.01385164" y="5.93111400" z="0.05343700"/>
+      <bsRadius value="19.75028000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_CeilingLights03</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_CeilingLights03</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.84669300" y="-1.29766300" z="-1.25270000"/>
+      <bbMax x="0.15233800" y="1.29765600" z="1.28846500"/>
+      <bsCentre x="-1.34717700" y="-0.00000346" z="0.01788247"/>
+      <bsRadius value="2.35517500"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_ELEVATOR</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_ELEVATOR</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.19399100" y="-0.00276500" z="-0.39024300"/>
+      <bbMax x="0.16749400" y="0.00224800" z="0.46907100"/>
+      <bsCentre x="-0.01324850" y="-0.00025850" z="0.03941399"/>
+      <bsRadius value="0.46613220"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_ELEVATOR_PANEL</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_ELEVATOR_PANEL</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-7.19118700" y="-12.61535000" z="-0.02272600"/>
+      <bbMax x="7.16173000" y="14.26304000" z="0.50977200"/>
+      <bsCentre x="-0.01472855" y="0.82384590" z="0.24352300"/>
+      <bsRadius value="15.23760000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Emis_only_L_Refl</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Emis_only_L_Refl</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-7.19118700" y="-12.61535000" z="-0.02272600"/>
+      <bbMax x="7.16173000" y="14.26304000" z="0.02272600"/>
+      <bsCentre x="-0.01472855" y="0.82384590" z="0.00000000"/>
+      <bsRadius value="15.23529000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Emis_only_L001</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Emis_only_L001</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-5.93410500" y="-12.61535000" z="-0.02272600"/>
+      <bbMax x="5.93410400" y="12.61535000" z="0.02272600"/>
+      <bsCentre x="-0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="13.94135000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Emis_only_NoRefl</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Emis_only_NoRefl</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-8.20826300" y="-18.38877000" z="-1.76197700"/>
+      <bbMax x="10.32374000" y="14.04506000" z="1.76197700"/>
+      <bsCentre x="1.05773900" y="-2.17185600" z="0.00000000"/>
+      <bsRadius value="18.76037000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Emis_wall_L</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Emis_wall_L</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.71057200" y="-0.65049900" z="-0.00662400"/>
+      <bbMax x="0.71057200" y="0.65049900" z="-0.00662400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.00662400"/>
+      <bsRadius value="0.96335940"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_FAKEMISSIVE_LO</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_FAKEMISSIVE_LO</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.99769100" y="-5.00000100" z="-1.50000000"/>
+      <bbMax x="6.74598400" y="4.99769100" z="1.50000000"/>
+      <bsCentre x="0.87414640" y="-0.00115490" z="0.00000000"/>
+      <bsRadius value="7.85601300"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_GAR_LO_SM</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GAR_LO_SM</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-8.03311700" y="-16.73592000" z="-2.00000000"/>
+      <bbMax x="10.85011000" y="25.78797000" z="2.00000200"/>
+      <bsCentre x="1.40849700" y="4.52603000" z="0.00000095"/>
+      <bsRadius value="23.34983000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_GarageL_Shell</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>v_int_72</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_GarageL_Shell</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-8.03311700" y="-16.73592000" z="-2.00000000"/>
+      <bbMax x="13.62964000" y="25.78797000" z="2.00000200"/>
+      <bsCentre x="2.79826400" y="4.52603000" z="0.00000095"/>
+      <bsRadius value="23.94555000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>V_72_GarageL_Shell_Proxy</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GarageL_Shell_Proxy</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-8.80556300" y="-6.66782300" z="-1.39616000"/>
+      <bbMax x="9.21534100" y="8.82117100" z="1.40994500"/>
+      <bsCentre x="0.20488930" y="1.07667400" z="0.00689256"/>
+      <bsRadius value="11.96386000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>V_72_GarageM_Decals</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GarageM_Decals</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.00000000" y="-7.41799600" z="-1.75000000"/>
+      <bbMax x="14.22688000" y="7.56258000" z="1.75000000"/>
+      <bsCentre x="2.61344100" y="0.07229185" z="0.00000000"/>
+      <bsRadius value="13.92979000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_GarageM_Shell</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_GarageM_Shell</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-8.99487900" y="-7.45632400" z="-1.75000000"/>
+      <bbMax x="8.99487900" y="7.45632400" z="1.75000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="11.81385000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_GarageM_SM</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_GarageM_SM</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-8.82415900" y="-6.57137300" z="-1.41390600"/>
+      <bbMax x="9.18943800" y="8.41277700" z="2.09884000"/>
+      <bsCentre x="0.18263910" y="0.92070200" z="0.34246690"/>
+      <bsRadius value="11.84645000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>V_72_GarageM_SP_Decals</name>
+      <textureDictionary>v_72_garagem_sp</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GarageM_SP_Decals</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="2048"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.05773600" y="-7.51662000" z="-1.80773500"/>
+      <bbMax x="9.05773600" y="7.51662000" z="1.80773500"/>
+      <bsCentre x="0.00000000" y="0.00000048" z="0.00000000"/>
+      <bsRadius value="11.90840000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_GarageM_SP_DT</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_GarageM_SP_DT</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.00000000" y="-7.41799600" z="-1.75000000"/>
+      <bbMax x="9.09895200" y="7.56258000" z="1.75000000"/>
+      <bsCentre x="0.04947662" y="0.07229185" z="0.00000000"/>
+      <bsRadius value="11.87687000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_GarageM_SP_Shell</name>
+      <textureDictionary>v_72_garagem_sp</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_GarageM_SP_Shell</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.00000000" y="-7.61167800" z="-1.76564500"/>
+      <bbMax x="9.09895200" y="7.87731600" z="1.75000000"/>
+      <bsCentre x="0.04947662" y="0.13281920" z="-0.00782251"/>
+      <bsRadius value="12.03994000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_GarageM_SP_SM</name>
+      <textureDictionary>v_72_garagem_sp</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_GarageM_SP_SM</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.59006500" y="-0.09322500" z="0.00000000"/>
+      <bbMax x="3.59006500" y="0.09322500" z="3.34505300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="1.67252600"/>
+      <bsRadius value="3.96164100"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_GaragePartition</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GaragePartition</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.99700000" y="-5.29983000" z="-1.39816000"/>
+      <bbMax x="7.67067400" y="5.29983000" z="1.23569700"/>
+      <bsCentre x="1.33683700" y="0.00000000" z="-0.08123147"/>
+      <bsRadius value="8.36301300"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_GarageS_Decals</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GarageS_Decals</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-5.00000000" y="-5.10369500" z="-1.50000000"/>
+      <bbMax x="8.61561000" y="5.10369600" z="2.10000000"/>
+      <bsCentre x="1.80780500" y="0.00000048" z="0.30000000"/>
+      <bsRadius value="8.69677600"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_GarageS_Shell</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_GarageS_Shell</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-6.57822000" y="0.00000000" z="-1.34024300"/>
+      <bbMax x="7.76805600" y="0.05174500" z="2.67250300"/>
+      <bsCentre x="0.59491780" y="0.02587250" z="0.66613000"/>
+      <bsRadius value="7.44849700"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_GARDOOR_SM</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GARDOOR_SM</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-6.57822000" y="0.00000000" z="-1.34024300"/>
+      <bbMax x="6.57822100" y="0.00000000" z="1.34024300"/>
+      <bsCentre x="0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="6.71336200"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_GARDOOR_SM001</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GARDOOR_SM001</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.34037400" y="-0.02986200" z="-1.22887000"/>
+      <bbMax x="0.34037700" y="0.02986300" z="1.22887000"/>
+      <bsCentre x="0.00000149" y="0.00000050" z="0.00000000"/>
+      <bsRadius value="1.27548800"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>V_72_GarLCables01</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_GarLCables01</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.05708000" y="-16.06816000" z="0.00000000"/>
+      <bbMax x="0.05707700" y="12.06539000" z="0.04748600"/>
+      <bsCentre x="-0.00000150" y="-2.00138500" z="0.02374300"/>
+      <bsRadius value="14.06691000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_LED_FLOOR</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_LED_FLOOR</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.05708000" y="-12.06539000" z="0.00000000"/>
+      <bbMax x="0.05707700" y="8.06261800" z="0.04748600"/>
+      <bsCentre x="-0.00000150" y="-2.00138500" z="0.02374300"/>
+      <bsRadius value="10.06419000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_LED_FLOOR001</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_LED_FLOOR001</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.03336700" y="-0.06123800" z="0.49900100"/>
+      <bbMax x="0.03336700" y="0.00549600" z="0.86320600"/>
+      <bsCentre x="0.00000000" y="-0.02787100" z="0.68110350"/>
+      <bsRadius value="0.18811710"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_light_pendant</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_light_pendant</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.01175500" y="-7.46062200" z="-1.78172400"/>
+      <bbMax x="9.01175300" y="7.46209800" z="1.75387100"/>
+      <bsCentre x="-0.00000095" y="0.00073814" z="-0.01392651"/>
+      <bsRadius value="11.83253000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Med_Det01</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Med_Det01</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.53895400" y="-3.72892000" z="1.65353000"/>
+      <bbMax x="3.68920800" y="4.37057500" z="1.74613200"/>
+      <bsCentre x="-0.42487290" y="0.32082750" z="1.69983100"/>
+      <bsRadius value="5.77306300"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Med_Det02</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Med_Det02</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-8.03311200" y="-16.88984000" z="-0.00019000"/>
+      <bbMax x="10.52692000" y="16.06797000" z="-0.00015100"/>
+      <bsCentre x="1.24690300" y="-0.41093250" z="-0.00017050"/>
+      <bsRadius value="18.91225000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_MirrorL</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_MirrorL</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.00000000" y="-7.56258000" z="-1.60387400"/>
+      <bbMax x="9.00000000" y="7.56258000" z="-1.60387400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-1.60387400"/>
+      <bsRadius value="11.75554000"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>v_72_MirrorM</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_MirrorM</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.80616700" y="-2.93727600" z="-0.23125700"/>
+      <bbMax x="1.75497300" y="2.93727600" z="3.07181400"/>
+      <bsCentre x="-0.02559698" y="0.00000000" z="1.42027900"/>
+      <bsRadius value="3.81124500"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_MPGJackFrame</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_MPGJackFrame</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-6.94207100" y="-2.12186100" z="-2.00001300"/>
+      <bbMax x="6.94207400" y="2.27578400" z="2.00001300"/>
+      <bsCentre x="0.00000143" y="0.07696152" z="0.00000000"/>
+      <bsRadius value="7.55163800"/>
+      <hdTextureDist value="20.00000000"/>
+      <name>V_72_RailsDoor</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_RailsDoor</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-6.94207100" y="-2.12186100" z="-2.00001300"/>
+      <bbMax x="6.94207400" y="2.27578400" z="1.50001300"/>
+      <bsCentre x="0.00000143" y="0.07696152" z="-0.25000000"/>
+      <bsRadius value="7.48930800"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_RailsDoor001</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_RailsDoor001</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.22191100" y="-0.30810600" z="-1.46160900"/>
+      <bbMax x="3.22191100" y="0.30810300" z="1.46160900"/>
+      <bsCentre x="0.00000000" y="-0.00000149" z="0.00000000"/>
+      <bsRadius value="3.55132900"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>v_72_RollerDoor</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_RollerDoor</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-5.02571800" y="-4.37677700" z="-1.31689900"/>
+      <bbMax x="4.80873300" y="0.61463600" z="1.36066000"/>
+      <bsCentre x="-0.10849240" y="-1.88107100" z="0.02188051"/>
+      <bsRadius value="5.67450400"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>v_72_Shelves</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_Shelves</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.01175500" y="-7.50823600" z="-1.75402100"/>
+      <bbMax x="9.01176100" y="7.46062200" z="1.75387100"/>
+      <bsCentre x="0.00000286" y="-0.02380705" z="-0.00007498"/>
+      <bsRadius value="11.84503000"/>
+      <hdTextureDist value="15.00000000"/>
+      <name>V_72_SP_Med_Det</name>
+      <textureDictionary>v_72_garagem_sp</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_SP_Med_Det</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.82501700" y="-3.46623100" z="0.07726900"/>
+      <bbMax x="4.82501100" y="3.46621800" z="0.12273100"/>
+      <bsCentre x="-0.00000286" y="-0.00000644" z="0.10000000"/>
+      <bsRadius value="5.94104300"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_SP_Reflection</name>
+      <textureDictionary>v_72_garagem_sp</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_SP_Reflection</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-14.07428000" y="-12.84869000" z="-1.20414000"/>
+      <bbMax x="3.88139700" y="1.99114300" z="1.10689200"/>
+      <bsCentre x="-5.09644100" y="-5.42877500" z="-0.04862404"/>
+      <bsRadius value="11.70436000"/>
+      <hdTextureDist value="15.00000000"/>
+      <name>v_72_SP_Units</name>
+      <textureDictionary>v_72_garagem_sp</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_SP_Units</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.30705900" y="-3.87935600" z="-1.24645600"/>
+      <bbMax x="3.92951100" y="2.01121600" z="1.86865300"/>
+      <bsCentre x="0.31122610" y="-0.93407010" z="0.31109850"/>
+      <bsRadius value="4.91860500"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>v_72_UnitLarge</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_UnitLarge</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.87815500" y="-1.89653700" z="-1.20414000"/>
+      <bbMax x="3.88139700" y="1.99114300" z="1.28198600"/>
+      <bsCentre x="0.00162101" y="0.04730308" z="0.03892302"/>
+      <bsRadius value="4.51402000"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>v_72_Units</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_Units</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.18141900" y="-1.88416500" z="-1.24864500"/>
+      <bbMax x="0.64579300" y="1.00827600" z="1.21928900"/>
+      <bsCentre x="0.41360600" y="-0.43794450" z="-0.01467800"/>
+      <bsRadius value="1.91523900"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>v_72_Units02</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_72_Units02</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.29675400" y="-0.02986200" z="-1.31594800"/>
+      <bbMax x="3.32458900" y="1.81398000" z="1.31594800"/>
+      <bsCentre x="1.01391800" y="0.89205900" z="0.00000000"/>
+      <bsRadius value="2.81440200"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Wall_Cabling003</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Wall_Cabling003</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.29675400" y="-0.02986200" z="-1.31594800"/>
+      <bbMax x="3.32458900" y="1.81398000" z="1.31594800"/>
+      <bsCentre x="1.01391800" y="0.89205900" z="0.00000000"/>
+      <bsRadius value="2.81440200"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Wall_Cabling01</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Wall_Cabling01</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.69972100" y="-1.63313200" z="0.69391500"/>
+      <bbMax x="0.74997400" y="0.86370400" z="0.83560000"/>
+      <bsCentre x="-0.47487340" y="-0.38471400" z="0.76475750"/>
+      <bsRadius value="1.75037600"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Wall_Lights004</name>
+      <textureDictionary>v_72_garagem</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Wall_Lights004</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.69972100" y="-1.63313200" z="0.69391500"/>
+      <bbMax x="0.74997400" y="0.86370400" z="0.83560000"/>
+      <bsCentre x="-0.47487340" y="-0.38471400" z="0.76475750"/>
+      <bsRadius value="1.75037600"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_Wall_Lights02</name>
+      <textureDictionary>v_72_garages</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_Wall_Lights02</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.01443800" y="-0.34280600" z="-0.50116100"/>
+      <bbMax x="0.00508600" y="4.83107300" z="1.25624700"/>
+      <bsCentre x="-0.00467600" y="2.24413300" z="0.37754300"/>
+      <bsRadius value="2.73211800"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_WallDetail003</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_WallDetail003</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="40.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.38485500" y="-1.58689500" z="-1.03955200"/>
+      <bbMax x="0.01100400" y="1.93150700" z="1.59077400"/>
+      <bsCentre x="-2.18692500" y="0.17230610" z="0.27561100"/>
+      <bsRadius value="3.10730400"/>
+      <hdTextureDist value="10.00000000"/>
+      <name>V_72_WallDetaiPRX</name>
+      <textureDictionary>v_72_garagel</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_72_WallDetaiPRX</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CMloArchetypeDef">
+      <lodDist value="25.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bbMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.00000000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>v_GarageL</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>v_GarageL</physicsDictionary>
+      <assetType>ASSET_TYPE_ASSETLESS</assetType>
+      <assetName>v_GarageL</assetName>
+      <extensions/>
+      <mloFlags value="1024"/>
+      <entities>
+        <Item type="CEntityDef">
+          <archetypeName>v_72_GarageL_Shell</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1445471395"/>
+          <position x="-0.32784650" y="1.71953800" z="2.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_72_UnitLarge</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4080204282"/>
+          <position x="4.19773900" y="15.53382000" z="1.20413800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Laptop_01a</archetypeName>
+          <flags value="18350082"/>
+          <guid value="646614782"/>
+          <position x="7.22880600" y="16.44059000" z="1.01979200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.38268290" w="0.92387980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_72_MirrorL</archetypeName>
+          <flags value="18350080"/>
+          <guid value="3432495834"/>
+          <position x="-0.32785030" y="1.71953800" z="0.00568400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_CarJack</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2363501982"/>
+          <position x="-7.96900900" y="22.44639000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.98480780" w="-0.17364790"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_03</archetypeName>
+          <flags value="1572866"/>
+          <guid value="163922399"/>
+          <position x="-7.94370600" y="25.40939000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Compressor_02</archetypeName>
+          <flags value="1572898"/>
+          <guid value="3506509855"/>
+          <position x="-7.68346800" y="23.41258000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727730" w="-0.67559020"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_05</archetypeName>
+          <flags value="1572898"/>
+          <guid value="2558088717"/>
+          <position x="7.68719800" y="12.78481000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_03</archetypeName>
+          <flags value="1572898"/>
+          <guid value="3036187316"/>
+          <position x="1.24307300" y="17.13576000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_SackTruck_02a</archetypeName>
+          <flags value="1572898"/>
+          <guid value="3018815349"/>
+          <position x="-8.07646200" y="24.19437000" z="-0.00024100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_ML_ShelfRk</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3339862529"/>
+          <position x="-0.26511000" y="27.23191000" z="1.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_CS_ToolBox3</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1750908767"/>
+          <position x="-0.65444570" y="27.24499000" z="0.80287200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Oiltub_05</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2484020328"/>
+          <position x="0.19534300" y="27.35218000" z="1.22948000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.13052600" w="0.99144490"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Oiltub_04</archetypeName>
+          <flags value="1572866"/>
+          <guid value="42548450"/>
+          <position x="0.26910780" y="27.13628000" z="1.23299500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.95371690" w="-0.30070600"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_CS_ToolBox4</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3511125939"/>
+          <position x="-0.57600400" y="27.26014000" z="1.40212900"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04362002" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_CS_ToolBox2</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3225974586"/>
+          <position x="-0.01528549" y="27.23587000" z="0.93185900"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04362002" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_TA_Box</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1360050850"/>
+          <position x="0.13813780" y="27.26524000" z="1.90933000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.99904820" w="0.04362002"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_SmallPlasticBox</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1934150509"/>
+          <position x="-0.49349590" y="27.22869000" z="1.74483000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710640" w="0.70710720"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_TA_Box</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4143849766"/>
+          <position x="-0.58372880" y="27.26524000" z="0.37482800"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04362002" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_RC_Locker</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1544734817"/>
+          <position x="-7.91668000" y="27.11429000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_CM_ladder</archetypeName>
+          <flags value="1572866"/>
+          <guid value="341353148"/>
+          <position x="-8.23228100" y="24.80355000" z="0.94701700"/>
+          <rotation x="0.03084398" y="0.03084398" z="-0.70643370" w="0.70643370"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Compressor_03</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2805640241"/>
+          <position x="-2.65713100" y="26.80330000" z="0.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.99619460" w="-0.08715597"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_SmallPlasticBox</archetypeName>
+          <flags value="1572898"/>
+          <guid value="612392417"/>
+          <position x="7.75391700" y="12.37584000" z="0.96130500"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000100"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_CarCreeper</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4046093245"/>
+          <position x="-3.15590700" y="27.42420000" z="1.13785100"/>
+          <rotation x="0.00000000" y="-0.67559020" z="0.73727730" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Elecbox_20</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1517234415"/>
+          <position x="-0.89199060" y="-14.88680000" z="-0.00033500"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Elecbox_20</archetypeName>
+          <flags value="1572866"/>
+          <guid value="496984873"/>
+          <position x="-7.34775500" y="-14.89939000" z="-0.00033500"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Serv_Switch_3</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1215916933"/>
+          <position x="-0.41422270" y="-14.95033000" z="1.24588200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_DuckTape_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="489212805"/>
+          <position x="4.40670800" y="17.12280000" z="1.03588700"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.67559020" w="0.73727720"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_DuckTape_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1260435626"/>
+          <position x="4.20057700" y="17.27103000" z="1.03588700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.86602540" w="0.50000020"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_EtricMotor_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1474420583"/>
+          <position x="7.59630200" y="15.25531000" z="1.02267000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.93969270" w="-0.34201990"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1779602542"/>
+          <position x="7.50463500" y="17.40690000" z="1.68612400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727780" w="-0.67558980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="279240533"/>
+          <position x="7.92913400" y="16.99049000" z="2.31103000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727780" w="-0.67558980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1736198964"/>
+          <position x="7.98337900" y="16.77627000" z="2.31103000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727780" w="-0.67558980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2761637347"/>
+          <position x="6.74674600" y="17.28172000" z="1.02092400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727780" w="-0.67558980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="40316214"/>
+          <position x="6.56789800" y="17.31542000" z="1.02092400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.99144490" w="-0.13052600"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Oiltub_04</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3766152414"/>
+          <position x="6.24290100" y="17.25886000" z="1.03588700"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.25881900" w="0.96592580"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Oiltub_05</archetypeName>
+          <flags value="1572898"/>
+          <guid value="953751319"/>
+          <position x="8.00838800" y="16.87403000" z="1.68083000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.96592580" w="-0.25881900"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paint_Spray01A</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1111034541"/>
+          <position x="6.53995900" y="17.43684000" z="1.68593100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.93969270" w="0.34201990"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paint_Spray01A</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1192477311"/>
+          <position x="6.63757000" y="17.45368000" z="1.68593100"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.64278800" w="0.76604410"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paint_Spray01A</archetypeName>
+          <flags value="1572898"/>
+          <guid value="4288558578"/>
+          <position x="7.98122000" y="15.91340000" z="1.68593100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.46174870" w="0.88701070"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paint_Spray01B</archetypeName>
+          <flags value="1572898"/>
+          <guid value="3614363272"/>
+          <position x="6.72750600" y="17.43553000" z="1.68593100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.64278800" w="0.76604410"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paints_can03</archetypeName>
+          <flags value="1572898"/>
+          <guid value="676600454"/>
+          <position x="7.89661800" y="16.06400000" z="2.46213700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727780" w="-0.67558980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paints_can05</archetypeName>
+          <flags value="1572898"/>
+          <guid value="2445951705"/>
+          <position x="7.89883000" y="17.31401000" z="2.58608600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.81915180" w="0.57357690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_stool_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2330655851"/>
+          <position x="7.17796700" y="13.44759000" z="0.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.98480780" w="-0.17364790"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Box_01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="881443172"/>
+          <position x="6.72750600" y="17.33357000" z="2.31103000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Box_02</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1142318823"/>
+          <position x="7.08126400" y="17.40779000" z="1.68612400"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04361901" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Cable01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="110210285"/>
+          <position x="7.29851900" y="17.33357000" z="2.31403000"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.34202000" w="0.93969270"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Cable01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="3693610352"/>
+          <position x="7.57247500" y="17.36197000" z="2.31403000"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04361901" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Cable01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1252148034"/>
+          <position x="7.81509000" y="13.19809000" z="0.96284100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Hammer</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1031990920"/>
+          <position x="5.17842500" y="17.02941000" z="1.03407700"/>
+          <rotation x="0.28119800" y="0.65624900" z="-0.64981210" w="0.26078600"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Screwdvr01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="243436860"/>
+          <position x="5.39562600" y="17.11349000" z="1.03407700"/>
+          <rotation x="0.08818204" y="0.66981020" z="0.73097020" w="-0.09623403"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Tool_Torch</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1552910916"/>
+          <position x="7.64246800" y="13.83855000" z="1.08507200"/>
+          <rotation x="-0.12278800" y="0.69636420" z="-0.69636420" w="-0.12278800"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_CS_Screwdrivr1</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3291339513"/>
+          <position x="5.48785000" y="17.10486000" z="1.03407700"/>
+          <rotation x="-0.04357801" y="0.99809730" z="0.04160101" w="-0.01311700"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_CS_ToolBox4</archetypeName>
+          <flags value="1572898"/>
+          <guid value="869573913"/>
+          <position x="7.90325500" y="16.34276000" z="1.85462000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727780" w="-0.67558980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_TA_Box</archetypeName>
+          <flags value="1572898"/>
+          <guid value="3077126625"/>
+          <position x="7.84934600" y="17.23244000" z="1.84842900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paint_Spray01A</archetypeName>
+          <flags value="1572898"/>
+          <guid value="902206944"/>
+          <position x="2.31462100" y="17.43833000" z="2.49709700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.93969270" w="0.34201990"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paint_Spray01A</archetypeName>
+          <flags value="1572898"/>
+          <guid value="2256288301"/>
+          <position x="2.41223100" y="17.45518000" z="2.49709700"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.64278800" w="0.76604410"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Paint_Spray01B</archetypeName>
+          <flags value="1572898"/>
+          <guid value="2198501878"/>
+          <position x="2.50216700" y="17.43703000" z="2.49709700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.64278800" w="0.76604410"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="833961327"/>
+          <position x="4.00710300" y="17.40818000" z="2.49729000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.99144490" w="-0.13052600"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="1254752675"/>
+          <position x="4.18595100" y="17.37448000" z="2.49729000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.73727780" w="-0.67558980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Oiltub_05</archetypeName>
+          <flags value="1572898"/>
+          <guid value="3613491748"/>
+          <position x="7.95839000" y="13.79140000" z="2.49356400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.84339190" w="0.53729890"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Compressor_02</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1620394629"/>
+          <position x="-1.41294500" y="26.81413000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04362002" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_05</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1935966455"/>
+          <position x="-0.14379500" y="17.11545000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_03</archetypeName>
+          <flags value="1572866"/>
+          <guid value="419683358"/>
+          <position x="-1.98844500" y="26.92768000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.08715597" w="0.99619470"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_CeilingLights02</archetypeName>
+          <flags value="2"/>
+          <guid value="188432283"/>
+          <position x="0.25968170" y="-8.51434300" z="3.81176300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_72_CeilingDet</archetypeName>
+          <flags value="2"/>
+          <guid value="3187147428"/>
+          <position x="-0.11651610" y="1.28138000" z="3.99960800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_BIKE_MOUNT01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3106161123"/>
+          <position x="-8.36096200" y="13.52185000" z="1.89970200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_BIKE_MOUNT002</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3905908380"/>
+          <position x="-8.36096200" y="12.88856000" z="1.89970200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_BIKE_MOUNT003</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3643556366"/>
+          <position x="-8.36096200" y="12.25526000" z="1.89970200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_MetalFoodJar_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1140812600"/>
+          <position x="4.37259700" y="17.25935000" z="1.02092400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.99144490" w="-0.13052600"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_tool_Box_02</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4111917115"/>
+          <position x="2.77144600" y="17.26706000" z="1.02023100"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04361901" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Boombox_01</archetypeName>
+          <flags value="1572898"/>
+          <guid value="2269998388"/>
+          <position x="2.03641900" y="17.18845000" z="1.25717400"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.08715597" w="0.99619470"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_GaragePartition</archetypeName>
+          <flags value="2"/>
+          <guid value="3413976197"/>
+          <position x="-4.77089700" y="17.78751000" z="0.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_LED_FLOOR</archetypeName>
+          <flags value="2"/>
+          <guid value="349051315"/>
+          <position x="-8.10127200" y="3.44487400" z="0.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_LED_FLOOR001</archetypeName>
+          <flags value="2"/>
+          <guid value="94474167"/>
+          <position x="7.84043900" y="-0.55789570" z="0.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_RC_Locker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1064310933"/>
+          <position x="-7.10683100" y="27.11429000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_RC_Locker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1153783631"/>
+          <position x="-6.29698200" y="27.11429000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_05</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4037839530"/>
+          <position x="-4.93408200" y="27.12215000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_CarJack</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3022737950"/>
+          <position x="-3.43050400" y="26.71018000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.50000030" w="0.86602520"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_BIKE_MOUNT010</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2554239571"/>
+          <position x="-8.36096200" y="14.15514000" z="1.89970200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_BIKE_MOUNT011</archetypeName>
+          <flags value="1572866"/>
+          <guid value="763162479"/>
+          <position x="-8.36096200" y="14.78843000" z="1.89970200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_BIKE_MOUNT012</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3554604055"/>
+          <position x="-8.36096200" y="15.42173000" z="1.89970200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_RailsDoor</archetypeName>
+          <flags value="0"/>
+          <guid value="2292715111"/>
+          <position x="-0.41423040" y="-12.89453000" z="1.99998700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FH_speaker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1129581903"/>
+          <position x="-8.19913900" y="9.47816500" z="3.35892800"/>
+          <rotation x="0.70710690" y="0.00000000" z="0.00000000" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FH_speaker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1358458870"/>
+          <position x="-8.19899000" y="1.47923500" z="3.35892800"/>
+          <rotation x="0.70710690" y="0.00000000" z="0.00000000" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FH_speaker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="447116431"/>
+          <position x="-8.19913900" y="-6.53624900" z="3.35892800"/>
+          <rotation x="0.70710690" y="0.00000000" z="0.00000000" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FH_speaker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="827981987"/>
+          <position x="7.90240400" y="-6.58472500" z="3.52163000"/>
+          <rotation x="0.00000000" y="0.70710690" z="0.70710690" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FH_speaker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2877303719"/>
+          <position x="7.90285900" y="1.42175800" z="3.52163000"/>
+          <rotation x="0.00000000" y="0.70710690" z="0.70710690" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FH_speaker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2092573552"/>
+          <position x="7.90285900" y="9.42915100" z="3.52163000"/>
+          <rotation x="0.00000000" y="0.70710690" z="0.70710690" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_WallDetail003</archetypeName>
+          <flags value="2"/>
+          <guid value="3969338441"/>
+          <position x="-8.35674300" y="16.96778000" z="0.94419500"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_CARPET02</archetypeName>
+          <flags value="1572866"/>
+          <guid value="43455729"/>
+          <position x="2.83528900" y="14.97386000" z="0.02257400"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.04361901" w="0.99904820"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_CARPET01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="452026548"/>
+          <position x="5.67560600" y="14.28391000" z="0.02257400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Engine_Hoist</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3520055706"/>
+          <position x="-6.10173000" y="21.65605000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.79335380" w="-0.60876090"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_MPGJackFrame</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1770265569"/>
+          <position x="-0.73751450" y="22.85103000" z="0.18125800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_RC_Locker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1052787670"/>
+          <position x="2.33318300" y="27.07120000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_RC_Locker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2640702555"/>
+          <position x="2.33318300" y="26.26135000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_05</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2016698804"/>
+          <position x="2.43613400" y="25.03681000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_ToolChest_03</archetypeName>
+          <flags value="1572866"/>
+          <guid value="906739139"/>
+          <position x="2.26274900" y="19.30396000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_SackTruck_02a</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2749401799"/>
+          <position x="2.39550000" y="20.51897000" z="-0.00024100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_CM_ladder</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4172300726"/>
+          <position x="2.55132300" y="19.90980000" z="0.94701700"/>
+          <rotation x="0.03084398" y="-0.03084398" z="0.70643370" w="0.70643370"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_CarCreeper</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3566989295"/>
+          <position x="2.89757200" y="22.23810000" z="1.13785100"/>
+          <rotation x="-0.47771410" y="-0.47771410" z="0.52133410" w="-0.52133410"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_TV_Flat_01</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2283877292"/>
+          <position x="0.23012920" y="17.39460000" z="1.62870400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="75.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_Emis_only_L_Refl</archetypeName>
+          <flags value="37748736"/>
+          <guid value="2439355627"/>
+          <position x="-0.14863590" y="0.32452390" z="3.45054200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Fire_exting_2a</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1222030122"/>
+          <position x="8.05747200" y="9.45238900" z="0.80275100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Fire_exting_2a</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3833487897"/>
+          <position x="8.05747200" y="1.43037000" z="0.80275100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Fire_exting_2a</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1606375440"/>
+          <position x="8.05747200" y="-6.59164500" z="0.80275100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Fire_exting_2a</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1311861018"/>
+          <position x="-8.35405700" y="1.51216500" z="0.80275100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Fire_exting_2a</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2125523194"/>
+          <position x="-8.35405700" y="9.53418400" z="0.80275100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Fire_exting_2a</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2253110141"/>
+          <position x="-8.35405700" y="-6.59161100" z="0.80275100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_Emis_wall_L</archetypeName>
+          <flags value="37748736"/>
+          <guid value="1071164117"/>
+          <position x="-0.14970400" y="3.44487400" z="1.99629800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_GarageL_Shell_Proxy</archetypeName>
+          <flags value="1572864"/>
+          <guid value="320356403"/>
+          <position x="-0.32785030" y="1.71953800" z="2.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_Emis_only_L001</archetypeName>
+          <flags value="37748736"/>
+          <guid value="3753698944"/>
+          <position x="-0.14863590" y="0.32452390" z="0.10395700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_GARDOOR_SM</archetypeName>
+          <flags value="2"/>
+          <guid value="428094797"/>
+          <position x="-0.40738680" y="-15.01338000" z="1.32749700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_WallDetaiPRX</archetypeName>
+          <flags value="2"/>
+          <guid value="2384000332"/>
+          <position x="8.25835000" y="-14.95063000" z="0.94419500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_ELEVATOR</archetypeName>
+          <flags value="2"/>
+          <guid value="1993329129"/>
+          <position x="10.30572000" y="-12.76745000" z="1.25270000"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_CeilingLights03</archetypeName>
+          <flags value="2"/>
+          <guid value="3690415109"/>
+          <position x="-0.13168340" y="0.32551190" z="3.94430300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ind_RC_Locker</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2700937621"/>
+          <position x="-7.96639300" y="20.73238000" z="-0.00127700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_AlarmBox</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1575095335"/>
+          <position x="6.49624200" y="-14.96291000" z="1.34776900"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_ILev_GarageLiftDoor</archetypeName>
+          <flags value="1572864"/>
+          <guid value="129096320"/>
+          <position x="10.48639000" y="-13.51745000" z="0.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_ILev_GarageLiftDoor</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1352437817"/>
+          <position x="10.48639000" y="-12.01744000" z="0.00000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_ELEVATOR_PANEL</archetypeName>
+          <flags value="2"/>
+          <guid value="1528793007"/>
+          <position x="10.56285000" y="-11.74362000" z="1.15000000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_GarLCables01</archetypeName>
+          <flags value="0"/>
+          <guid value="2071776728"/>
+          <position x="7.02913700" y="-14.93177000" z="2.52328500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Serv_Switch_3</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3198100019"/>
+          <position x="7.34037000" y="-14.96164000" z="1.30358600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_72_Emis_only_NoRefl</archetypeName>
+          <flags value="16777218"/>
+          <guid value="44187706"/>
+          <position x="-0.14863590" y="0.32452390" z="3.45054200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="40.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+      </entities>
+      <rooms>
+        <Item>
+          <name>limbo</name>
+          <bbMin x="-8.36096400" y="-15.01638000" z="0.00000000"/>
+          <bbMax x="10.52226000" y="27.50751000" z="4.00000200"/>
+          <blend value="1.00000000"/>
+          <timecycleName/>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="1"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            0
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>GtaMloRoom001</name>
+          <bbMin x="-8.83751400" y="-23.17879000" z="-0.09535700"/>
+          <bbMax x="13.05885000" y="23.68214000" z="4.00260700"/>
+          <blend value="1.00000000"/>
+          <timecycleName>mp_garage_l</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="367"/>
+          <portalCount value="1"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            1
+            2
+            3
+            4
+            5
+            6
+            7
+            8
+            9
+            10
+            11
+            12
+            13
+            14
+            15
+            16
+            17
+            18
+            19
+            20
+            21
+            22
+            23
+            24
+            25
+            26
+            27
+            28
+            29
+            30
+            31
+            32
+            33
+            34
+            35
+            36
+            37
+            38
+            39
+            40
+            41
+            42
+            43
+            44
+            45
+            46
+            47
+            48
+            49
+            50
+            51
+            52
+            53
+            54
+            55
+            56
+            57
+            58
+            59
+            60
+            61
+            62
+            63
+            64
+            65
+            66
+            67
+            68
+            69
+            70
+            71
+            72
+            73
+            74
+            75
+            76
+            77
+            78
+            79
+            80
+            81
+            82
+            83
+            84
+            85
+            86
+            87
+            88
+            89
+            90
+            91
+            92
+            93
+            94
+            95
+            96
+            97
+            98
+            99
+            100
+            101
+            102
+            103
+            104
+            105
+            106
+            107
+            108
+            109
+            110
+            111
+            112
+            113
+            114
+            115
+            116
+            117
+            118
+            119
+            120
+            121
+            122
+            123
+          </attachedObjects>
+        </Item>
+      </rooms>
+      <portals>
+        <Item>
+          <roomFrom value="1"/>
+          <roomTo value="0"/>
+          <flags value="4"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            10.19905000	17.78730000	-0.00314800
+            10.19905000	-14.96270000	-0.00314800
+            -8.36094800	-14.96270000	-0.00314800
+            -8.36094800	17.78730000	-0.00314800
+          </corners>
+          <attachedObjects/>
+        </Item>
+      </portals>
+      <entitySets/>
+      <timeCycleModifiers/>
+    </Item>
+  </archetypes>
+  <name>v_int_72</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>

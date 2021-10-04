@@ -1,0 +1,4101 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8196"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.83884000" y="-0.27776100" z="-0.00134300"/>
+      <bbMax x="1.15030600" y="2.66154300" z="0.62040500"/>
+      <bsCentre x="0.15573300" y="1.19189100" z="0.30953100"/>
+      <bsRadius value="1.80158100"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_Bath_over_dec</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_Bath_over_dec</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.68004800" y="-0.42796100" z="-0.70156100"/>
+      <bbMax x="0.68004800" y="0.42796100" z="0.70156100"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.06667900"/>
+      <hdTextureDist value="8.95000000"/>
+      <name>V_61_bd1_binbag</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_binbag</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.06941200" y="-1.42715200" z="-1.23348100"/>
+      <bbMax x="0.06914000" y="1.42715000" z="1.23348100"/>
+      <bsCentre x="-0.00013600" y="-0.00000107" z="0.00000000"/>
+      <bsRadius value="1.88760000"/>
+      <hdTextureDist value="8.95000000"/>
+      <name>V_61_bd1_mesh_curtains</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_curtains</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.08364600" y="-2.02738800" z="-1.40670600"/>
+      <bbMax x="3.10030700" y="2.02738800" z="1.40676200"/>
+      <bsCentre x="0.00833058" y="0.00000000" z="0.00002801"/>
+      <bsRadius value="3.95594800"/>
+      <hdTextureDist value="8.95000000"/>
+      <name>V_61_bd1_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.26697100" y="0.15053900" z="-0.93136190"/>
+      <bbMax x="0.27213000" y="0.80102900" z="0.93136190"/>
+      <bsCentre x="0.00257951" y="0.47578400" z="0.00000000"/>
+      <bsRadius value="1.02268100"/>
+      <hdTextureDist value="6.26000000"/>
+      <name>V_61_bd1_mesh_door</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_door</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.08269400" y="0.71837200" z="-1.34053600"/>
+      <bbMax x="0.71575200" y="1.07069300" z="0.49897800"/>
+      <bsCentre x="0.31652900" y="0.89453250" z="-0.42077900"/>
+      <bsRadius value="1.01802000"/>
+      <hdTextureDist value="6.29000000"/>
+      <name>V_61_bd1_mesh_doorswap</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_doorswap</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.19738300" y="-0.19738300" z="-0.04428400"/>
+      <bbMax x="0.19738300" y="0.19738300" z="0.34332300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.14951950"/>
+      <bsRadius value="0.33982330"/>
+      <hdTextureDist value="8.09000000"/>
+      <name>V_61_bd1_mesh_Lamp</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_Lamp</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.98307000" y="-0.29881800" z="-0.60887500"/>
+      <bbMax x="0.98307000" y="0.29881800" z="0.60887500"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.19434000"/>
+      <hdTextureDist value="6.20000000"/>
+      <name>V_61_bd1_mesh_makeup</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_makeup</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.98743300" y="-1.87824300" z="-0.95629400"/>
+      <bbMax x="2.98743300" y="1.87824300" z="0.95629400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="3.65609800"/>
+      <hdTextureDist value="8.66000000"/>
+      <name>V_61_bd1_mesh_mess</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_mess</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.91742010" y="-1.41928300" z="-0.86644100"/>
+      <bbMax x="0.91742010" y="1.41928300" z="0.86644100"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.89914300"/>
+      <hdTextureDist value="628.91000000"/>
+      <name>V_61_bd1_mesh_pillows</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_pillows</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.05841600" y="-1.99032400" z="-1.15725800"/>
+      <bbMax x="2.05841700" y="1.99032400" z="1.15725800"/>
+      <bsCentre x="0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="3.08831900"/>
+      <hdTextureDist value="8.09000000"/>
+      <name>V_61_bd1_mesh_props</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_props</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.48728700" y="-0.33887700" z="-0.19338100"/>
+      <bbMax x="1.48728800" y="0.33887700" z="0.19338100"/>
+      <bsCentre x="0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.53761400"/>
+      <hdTextureDist value="6.54000000"/>
+      <name>V_61_bd1_mesh_RoseVase</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_RoseVase</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.02852600" y="-0.56250200" z="-0.33457200"/>
+      <bbMax x="1.02852500" y="0.56250200" z="0.33457200"/>
+      <bsCentre x="-0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.21910300"/>
+      <hdTextureDist value="6.22000000"/>
+      <name>V_61_bd1_mesh_sheet</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_sheet</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.18567700" y="-0.24146100" z="-0.89260000"/>
+      <bbMax x="0.18567700" y="0.24146100" z="0.89260000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.94314060"/>
+      <hdTextureDist value="5.95000000"/>
+      <name>V_61_bd1_mesh_shoes</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_mesh_shoes</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8196"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.27012500" y="-2.11161400" z="-1.40209000"/>
+      <bbMax x="3.20358800" y="2.02720900" z="1.40209000"/>
+      <bsCentre x="0.46673160" y="-0.04220247" z="0.00000000"/>
+      <bsRadius value="3.70657600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bd1_over_decal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_over_decal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536879104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.63207300" y="-2.02663100" z="-0.43386700"/>
+      <bbMax x="2.63206900" y="2.02663100" z="1.26921500"/>
+      <bsCentre x="-0.00000191" y="0.00000000" z="0.41767400"/>
+      <bsRadius value="3.42930800"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bd1_over_normal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_over_normal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.99443000" y="0.00000000" z="-0.22740400"/>
+      <bbMax x="0.99443000" y="0.00000000" z="0.22740300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.00000051"/>
+      <bsRadius value="1.02010000"/>
+      <hdTextureDist value="6.03000000"/>
+      <name>V_61_bd1_over_shadow_ore</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd1_over_shadow_ore</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.11641000" y="-1.40593300" z="-0.82163100"/>
+      <bbMax x="1.08410900" y="1.39656400" z="0.71350300"/>
+      <bsCentre x="-0.01615047" y="-0.00468457" z="-0.05406398"/>
+      <bsRadius value="1.93990400"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_bed</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_bed</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.66259400" y="-1.49120500" z="-1.31241200"/>
+      <bbMax x="0.67032700" y="-0.75361100" z="1.30716200"/>
+      <bsCentre x="-0.99613360" y="-1.12240800" z="-0.00262499"/>
+      <bsRadius value="2.15142800"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_cupboard</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_cupboard</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="1.89868100" y="-1.47150100" z="-1.40669800"/>
+      <bbMax x="2.08290100" y="1.38280100" z="1.10208000"/>
+      <bsCentre x="1.99079100" y="-0.04435003" z="-0.15230890"/>
+      <bsRadius value="1.90229800"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_curtains</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_curtains</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.29778500" y="-0.24746000" z="-0.29778500"/>
+      <bbMax x="0.41141300" y="0.04858100" z="0.29778500"/>
+      <bsCentre x="0.05681399" y="-0.09943950" z="0.00000000"/>
+      <bsRadius value="0.48613420"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_darts</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_darts</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.21104700" y="-1.96409700" z="-1.40670700"/>
+      <bbMax x="2.08235300" y="1.96409700" z="1.40676200"/>
+      <bsCentre x="-0.06434703" y="0.00000000" z="0.00002742"/>
+      <bsRadius value="3.23185700"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.54579700" y="-0.26600100" z="0.00000000"/>
+      <bbMax x="0.86653290" y="0.38134200" z="2.69780400"/>
+      <bsCentre x="-0.33963200" y="0.05767051" z="1.34890200"/>
+      <bsRadius value="1.83824200"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_drawers</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_drawers</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="131104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.28509400" y="-2.74890600" z="-0.03605900"/>
+      <bbMax x="0.92849600" y="0.38134200" z="2.54164200"/>
+      <bsCentre x="-1.17829900" y="-1.18378200" z="1.25279100"/>
+      <bsRadius value="2.92392400"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_drawers_mess</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_drawers_mess</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.36355700" y="-0.03115500" z="-0.01328500"/>
+      <bbMax x="0.02620500" y="0.04343000" z="2.34249500"/>
+      <bsCentre x="-0.66867600" y="0.00613750" z="1.16460500"/>
+      <bsRadius value="1.36809200"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_roadSign</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_roadSign</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.49401100" y="-0.88486800" z="-0.01102300"/>
+      <bbMax x="0.49401100" y="0.88486800" z="0.01102300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.01348900"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bd2_mesh_yogaMat</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_mesh_yogaMat</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.25765600" y="-2.02550100" z="-0.80996800"/>
+      <bbMax x="2.25765600" y="2.02550200" z="0.80996800"/>
+      <bsCentre x="0.00000000" y="0.00000048" z="0.00000000"/>
+      <bsRadius value="3.13938100"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bd2_over_shadow</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_over_shadow</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.87597600" y="-0.19955600" z="-0.47885700"/>
+      <bbMax x="0.87597400" y="0.19955600" z="0.47885700"/>
+      <bsCentre x="-0.00000101" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.01806600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bd2_over_shadow_clean</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bd2_over_shadow_clean</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.35330800" y="-2.02530800" z="-1.20306800"/>
+      <bbMax x="2.63091000" y="2.02530700" z="1.03046000"/>
+      <bsCentre x="0.13880090" y="-0.00000048" z="-0.08630395"/>
+      <bsRadius value="3.39994700"/>
+      <hdTextureDist value="672.70000000"/>
+      <name>V_61_bed_over_decal_Scuz1</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed_over_decal_Scuz1</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.04892500" y="-1.25384900" z="-0.51814300"/>
+      <bbMax x="1.04892500" y="1.25384900" z="0.51814300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.71489200"/>
+      <hdTextureDist value="6.72000000"/>
+      <name>V_61_bed1_mesh_bottleS</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed1_mesh_bottleS</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536870912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.50708900" y="-0.33683900" z="-0.49702400"/>
+      <bbMax x="1.50708900" y="0.33683900" z="0.49702400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.62228600"/>
+      <hdTextureDist value="6.63000000"/>
+      <name>V_61_bed1_mesh_clothes</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed1_mesh_clothes</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.65109900" y="-0.22246100" z="-0.88602300"/>
+      <bbMax x="0.65109700" y="0.22246100" z="0.88602400"/>
+      <bsCentre x="-0.00000101" y="0.00000000" z="0.00000054"/>
+      <bsRadius value="1.12180900"/>
+      <hdTextureDist value="6.13000000"/>
+      <name>V_61_bed1_mesh_clothesMess</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed1_mesh_clothesMess</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.18468200" y="-0.18190200" z="-0.04349100"/>
+      <bbMax x="0.18468300" y="0.18190200" z="0.04349100"/>
+      <bsCentre x="0.00000049" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.26284490"/>
+      <hdTextureDist value="5.27000000"/>
+      <name>V_61_bed1_mesh_drugstuff</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed1_mesh_drugstuff</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.18468200" y="-0.18190200" z="-0.04349100"/>
+      <bbMax x="0.18468300" y="0.18190200" z="0.04349100"/>
+      <bsCentre x="0.00000049" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.26284490"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bed2_mesh_drugstuff001</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed2_mesh_drugstuff001</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.13844700" y="-0.13844600" z="-0.33622400"/>
+      <bbMax x="0.13844600" y="0.13844600" z="0.13638400"/>
+      <bsCentre x="-0.00000049" y="0.00000000" z="-0.09992000"/>
+      <bsRadius value="0.30687830"/>
+      <hdTextureDist value="7.07000000"/>
+      <name>V_61_bed2_mesh_lampShade</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed2_mesh_lampShade</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536879104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.14548300" y="-1.96264600" z="-0.45095900"/>
+      <bbMax x="2.14548300" y="1.96264600" z="1.26921200"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.40912650"/>
+      <bsRadius value="3.03229700"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bed2_over_normal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed2_over_normal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536879104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.17696300" y="-0.47852000" z="-0.38731500"/>
+      <bbMax x="0.38124000" y="1.95822900" z="1.29456400"/>
+      <bsCentre x="-0.89786150" y="0.73985440" z="0.45362450"/>
+      <bsRadius value="1.95645500"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bed2_over_rips</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed2_over_rips</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536879104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.34397000" y="-1.95903800" z="-1.40626100"/>
+      <bbMax x="2.26691400" y="1.96873400" z="1.40626100"/>
+      <bsCentre x="-0.03852820" y="0.00484800" z="0.00000000"/>
+      <bsRadius value="3.33908400"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bed2_over_shadows</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bed2_over_shadows</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.18664900" y="-1.02305000" z="0.00000000"/>
+      <bbMax x="0.48311200" y="1.02533800" z="2.37789900"/>
+      <bsCentre x="-0.35176850" y="0.00114405" z="1.18894900"/>
+      <bsRadius value="1.77752600"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_bath</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_bath</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.08098900" y="-0.94530800" z="-1.40487300"/>
+      <bbMax x="2.20720100" y="1.10179000" z="1.40676300"/>
+      <bsCentre x="0.56310590" y="0.07824093" z="0.00094497"/>
+      <bsRadius value="2.39312000"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.05586900" y="-0.45078500" z="-0.01262400"/>
+      <bbMax x="0.88270800" y="1.28988900" z="1.28724000"/>
+      <bsCentre x="-0.08658051" y="0.41955200" z="0.63730800"/>
+      <bsRadius value="1.45582200"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_mess_A</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_mess_A</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.50289600" y="-1.04052000" z="-0.04739500"/>
+      <bbMax x="2.21239200" y="1.23449700" z="1.55045200"/>
+      <bsCentre x="0.85474800" y="0.09698844" z="0.75152850"/>
+      <bsRadius value="1.94303900"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_mess_b</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_mess_b</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.17144400" y="0.00000000" z="-0.17144400"/>
+      <bbMax x="0.17144400" y="0.00000000" z="0.17144400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.24245840"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_mirror</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_mirror</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.94539600" y="-1.43850100" z="-0.92403700"/>
+      <bbMax x="0.33203200" y="0.27477700" z="0.69180400"/>
+      <bsCentre x="-1.30668200" y="-0.58186200" z="-0.11611650"/>
+      <bsRadius value="2.01790700"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_sexDoll</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_sexDoll</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.00041100" y="-0.32889200" z="-0.44072600"/>
+      <bbMax x="0.36080200" y="0.29595000" z="1.87014400"/>
+      <bsCentre x="-0.31980450" y="-0.01647100" z="0.71470890"/>
+      <bsRadius value="1.37690300"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_sink</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_sink</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.54878600" y="-0.51973500" z="-0.48804300"/>
+      <bbMax x="0.49782400" y="0.10554800" z="1.62453100"/>
+      <bsCentre x="-0.52548100" y="-0.20709350" z="0.56824400"/>
+      <bsRadius value="1.50354300"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_toilet</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_toilet</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.21256800" y="-0.33093300" z="-0.48004300"/>
+      <bbMax x="0.21256800" y="0.33093200" z="0.41135800"/>
+      <bsCentre x="0.00000000" y="-0.00000051" z="-0.03434250"/>
+      <bsRadius value="0.59443280"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_toilet_clean</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_toilet_clean</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.21256800" y="-0.33093300" z="-0.48004300"/>
+      <bbMax x="0.21256800" y="0.32765100" z="0.45438100"/>
+      <bsCentre x="0.00000000" y="-0.00164101" z="-0.01283100"/>
+      <bsRadius value="0.60984050"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_toilet_messy</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_toilet_messy</assetName>
+      <extensions>
+        <Item type="CExtensionDefParticleEffect">
+          <name>V_61_bth_mesh_toilet_messy</name>
+          <offsetPosition x="0.00614206" y="-0.04864811" z="0.35966400"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710660"/>
+          <fxName>amb_fly_swarm</fxName>
+          <fxType value="0"/>
+          <boneTag value="0"/>
+          <scale value="1.00000000"/>
+          <probability value="100"/>
+          <flags value="0"/>
+          <color value="0xFFFFFFFF"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.23698200" y="-0.08037700" z="-0.17020000"/>
+      <bbMax x="0.23698300" y="0.08037700" z="0.17019900"/>
+      <bsCentre x="0.00000049" y="0.00000000" z="-0.00000049"/>
+      <bsRadius value="0.30263680"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_toiletRoll</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_toiletRoll</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.54378700" y="-0.08184301" z="-0.67019000"/>
+      <bbMax x="0.54543100" y="0.06890501" z="0.60437500"/>
+      <bsCentre x="0.00082201" y="-0.00646900" z="-0.03290749"/>
+      <bsRadius value="0.84167050"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_bth_mesh_window</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_mesh_window</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.15893700" y="-1.01825500" z="-0.56860600"/>
+      <bbMax x="1.15893700" y="1.01825500" z="0.56860600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.64416900"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bth_over_decal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_over_decal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.01219100" y="-1.28820700" z="0.00000000"/>
+      <bbMax x="1.34293200" y="0.87383300" z="2.80808500"/>
+      <bsCentre x="-0.33462950" y="-0.20718710" z="1.40404300"/>
+      <bsRadius value="2.44011300"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_bth_over_shadow</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_bth_over_shadow</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="2048"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.06741800" y="-0.06846900" z="-1.40580600"/>
+      <bbMax x="1.06741800" y="0.06846900" z="1.40580600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.76645400"/>
+      <hdTextureDist value="13.29000000"/>
+      <name>V_61_ducttape</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ducttape</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8196"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.73930200" y="-3.21397000" z="-1.40069600"/>
+      <bbMax x="-0.60446600" y="-0.61183300" z="-0.09679900"/>
+      <bsCentre x="-1.67188400" y="-1.91290100" z="-0.74874760"/>
+      <bsRadius value="1.80477100"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_fdr_over_decal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_fdr_over_decal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.06744400" y="-1.02406200" z="-1.40639600"/>
+      <bbMax x="1.06744400" y="1.02394600" z="1.40676200"/>
+      <bsCentre x="0.00000000" y="-0.00005805" z="0.00018299"/>
+      <bsRadius value="2.04119700"/>
+      <hdTextureDist value="7.05000100"/>
+      <name>V_61_fnt_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_fnt_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.12710200" y="-0.45682900" z="-0.85981600"/>
+      <bbMax x="0.12710200" y="0.45682900" z="0.85981600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.98190180"/>
+      <hdTextureDist value="5.99000000"/>
+      <name>V_61_fnt_mesh_hooks</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_fnt_mesh_hooks</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.85458400" y="-0.87392600" z="-0.70382200"/>
+      <bbMax x="0.85458400" y="0.87392600" z="0.70382200"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.41047000"/>
+      <hdTextureDist value="6.42000000"/>
+      <name>V_61_fnt_mesh_props</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_fnt_mesh_props</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.34982300" y="-0.94978300" z="-0.00819300"/>
+      <bbMax x="0.34982300" y="0.94978300" z="0.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.00409650"/>
+      <bsRadius value="1.01216600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_fnt_mesh_shitmarks</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_fnt_mesh_shitmarks</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536870912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.06539500" y="-1.02180400" z="-0.39283000"/>
+      <bbMax x="1.06539500" y="1.02180400" z="1.26921200"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.43819100"/>
+      <bsRadius value="1.69403200"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_fnt_over_normal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_fnt_over_normal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.93009600" y="-1.61532900" z="-0.70007100"/>
+      <bbMax x="0.92678200" y="1.61532900" z="0.67376500"/>
+      <bsCentre x="-0.00165695" y="0.00000000" z="-0.01315296"/>
+      <bsRadius value="1.98573500"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_hal_over_decal_shit</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hal_over_decal_shit</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.22328100" y="-1.33197600" z="-0.94480900"/>
+      <bbMax x="0.51864600" y="0.38686500" z="1.74355900"/>
+      <bsCentre x="0.14768250" y="-0.47255550" z="0.39937500"/>
+      <bsRadius value="1.63800100"/>
+      <hdTextureDist value="669.00000000"/>
+      <name>V_61_hall_lampbase</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hall_lampbase</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.18580100" y="-0.01822400" z="-0.60338700"/>
+      <bbMax x="0.18580100" y="0.01822400" z="0.60338700"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.63160910"/>
+      <hdTextureDist value="5.64000000"/>
+      <name>V_61_hall_mesh_frames</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hall_mesh_frames</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.70211600" y="-0.15140100" z="-1.40673800"/>
+      <bbMax x="0.68777800" y="0.30941400" z="-0.32060800"/>
+      <bsCentre x="-0.00716901" y="0.07900651" z="-0.86367300"/>
+      <bsRadius value="0.91156930"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_hall_mesh_sideboard</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hall_mesh_sideboard</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="30.00000000"/>
+      <flags value="131104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.29653900" y="-0.90691400" z="-1.40709700"/>
+      <bbMax x="0.29653900" y="0.90691400" z="1.40709700"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.70010300"/>
+      <hdTextureDist value="669.00000000"/>
+      <name>V_61_hall_mesh_sidesmess</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hall_mesh_sidesmess</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.30563900" y="0.43124900" z="-0.60005500"/>
+      <bbMax x="0.00734500" y="0.74423400" z="-0.21173100"/>
+      <bsCentre x="-0.14914700" y="0.58774150" z="-0.40589300"/>
+      <bsRadius value="0.29441220"/>
+      <hdTextureDist value="669.00000000"/>
+      <name>V_61_hall_mesh_sidestuff</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hall_mesh_sidestuff</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.84204000" y="-0.04073100" z="-0.74339300"/>
+      <bbMax x="1.84487500" y="0.04073100" z="0.74342400"/>
+      <bsCentre x="0.00141752" y="0.00000000" z="0.00001550"/>
+      <bsRadius value="1.98812700"/>
+      <hdTextureDist value="6.98999900"/>
+      <name>V_61_hall_mesh_starfish</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hall_mesh_starfish</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.99604900" y="-1.93043100" z="-0.62811200"/>
+      <bbMax x="1.77483400" y="1.93043100" z="0.69793700"/>
+      <bsCentre x="-0.11060750" y="0.00000000" z="0.03491253"/>
+      <bsRadius value="2.77867900"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_hall_over_decal_Scuz</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hall_over_decal_Scuz</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.58748400" y="-0.02281000" z="-1.15000000"/>
+      <bbMax x="0.58748400" y="0.02281000" z="1.15000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.29157200"/>
+      <hdTextureDist value="6.30000000"/>
+      <name>V_61_hlw_mesh_CDoor</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hlw_mesh_CDoor</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.84487900" y="-1.99435900" z="-1.40669100"/>
+      <bbMax x="2.84403200" y="3.11862700" z="1.40676300"/>
+      <bsCentre x="-0.00042343" y="0.56213400" z="0.00003600"/>
+      <bsRadius value="4.07498000"/>
+      <hdTextureDist value="8.75000000"/>
+      <name>V_61_hlw_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hlw_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.58748400" y="-0.23516600" z="-1.15000000"/>
+      <bbMax x="0.58748400" y="0.23516600" z="1.15000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.31260800"/>
+      <hdTextureDist value="6.32000000"/>
+      <name>V_61_hlw_mesh_doorBroken</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hlw_mesh_doorBroken</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8196"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.89687500" y="-3.05541700" z="-1.40576200"/>
+      <bbMax x="2.97187500" y="3.09163500" z="1.40576200"/>
+      <bsCentre x="0.03749991" y="0.01810884" z="0.00000000"/>
+      <bsRadius value="4.47585600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_hlw_over_decal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hlw_over_decal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.05050600" y="-0.56446300" z="-0.41638000"/>
+      <bbMax x="0.05050600" y="0.56446300" z="0.41638000"/>
+      <bsCentre x="0.05050600" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.70142050"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_hlw_over_decal_mural</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hlw_over_decal_mural</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8196"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.12146700" y="-0.56446300" z="-0.41638000"/>
+      <bbMax x="0.12146700" y="0.56446300" z="0.41638000"/>
+      <bsCentre x="0.12146700" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.70142050"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_hlw_over_decal_muralDirty</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hlw_over_decal_muralDirty</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.79860200" y="-0.81220400" z="-0.37514600"/>
+      <bbMax x="2.79859700" y="3.00439500" z="1.26921200"/>
+      <bsCentre x="-0.00000238" y="1.09609500" z="0.44703300"/>
+      <bsRadius value="3.48564900"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_hlw_over_normals</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_hlw_over_normals</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.74405000" y="-1.65367600" z="-0.56031100"/>
+      <bbMax x="2.53837900" y="2.46609900" z="0.35997700"/>
+      <bsCentre x="0.89716440" y="0.40621140" z="-0.10016700"/>
+      <bsRadius value="2.67365900"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_kit_over_dec_crumA</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kit_over_dec_crumA</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.66894400" y="-1.47081400" z="-0.46271800"/>
+      <bbMax x="1.66894400" y="1.47081400" z="0.46271800"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="2.27217400"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_kit_over_dec_crumB</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kit_over_dec_crumB</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.03261600" y="-0.31366000" z="-0.21293500"/>
+      <bbMax x="1.03261600" y="1.83628900" z="0.21293500"/>
+      <bsCentre x="0.00000000" y="0.76131450" z="0.00000000"/>
+      <bsRadius value="1.50572500"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_kit_over_dec_crumC</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kit_over_dec_crumC</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.83567300" y="-0.97466900" z="-0.36408300"/>
+      <bbMax x="0.83354510" y="1.42894600" z="1.34010800"/>
+      <bsCentre x="-0.00106394" y="0.22713850" z="0.48801250"/>
+      <bsRadius value="1.69321600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_kit_over_decal_Scuz</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kit_over_decal_Scuz</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.21599600" y="-0.01141500" z="-0.49450200"/>
+      <bbMax x="0.21599700" y="0.01141500" z="0.49450200"/>
+      <bsCentre x="0.00000051" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.53973790"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_kitc_mesh_board_a</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kitc_mesh_board_a</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.73294900" y="-0.27685600" z="-0.08905700"/>
+      <bbMax x="0.73294800" y="0.27685600" z="0.08905800"/>
+      <bsCentre x="-0.00000048" y="0.00000000" z="0.00000050"/>
+      <bsRadius value="0.78853920"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_kitc_mesh_lights</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kitc_mesh_lights</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.33170300" y="-0.38423600" z="-0.17570600"/>
+      <bbMax x="0.20657800" y="0.14582000" z="0.17570600"/>
+      <bsCentre x="-0.06256249" y="-0.11920800" z="0.00000000"/>
+      <bsRadius value="0.41659220"/>
+      <hdTextureDist value="8.97000000"/>
+      <name>V_61_kitch_Pizza</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kitch_Pizza</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.01824700" y="-0.21927100" z="-0.21143400"/>
+      <bbMax x="0.01824800" y="0.21927000" z="0.21143400"/>
+      <bsCentre x="0.00000050" y="-0.00000051" z="0.00000000"/>
+      <bsRadius value="0.30515060"/>
+      <hdTextureDist value="817.10000000"/>
+      <name>V_61_kitn_mesh_plate</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_kitn_mesh_plate</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.15581900" y="-0.06360300" z="-0.03266600"/>
+      <bbMax x="0.15581900" y="0.06360300" z="0.03266600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.17144090"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktcn_mesh_dildo</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktcn_mesh_dildo</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="50.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.88006500" y="-2.00952900" z="-1.13976100"/>
+      <bbMax x="1.88006500" y="2.01144900" z="1.14008800"/>
+      <bsCentre x="0.00000000" y="0.00095987" z="0.00016356"/>
+      <bsRadius value="2.97928500"/>
+      <hdTextureDist value="817.10000000"/>
+      <name>V_61_ktcn_mesh_mess_01</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktcn_mesh_mess_01</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.60214200" y="-1.85572000" z="-0.68164000"/>
+      <bbMax x="1.60214200" y="1.87512800" z="0.55120000"/>
+      <bsCentre x="0.00000000" y="0.00970399" z="-0.06522000"/>
+      <bsRadius value="2.53508200"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktcn_mesh_mess_02</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktcn_mesh_mess_02</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.89118600" y="-1.86633800" z="-0.29543100"/>
+      <bbMax x="1.89118600" y="1.75655200" z="0.29543100"/>
+      <bsCentre x="0.00000000" y="-0.05489302" z="0.00000000"/>
+      <bsRadius value="2.63537400"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktcn_mesh_mess_03</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktcn_mesh_mess_03</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.90861000" y="-2.10524200" z="-1.40740500"/>
+      <bbMax x="1.90861000" y="2.10524200" z="1.40740500"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="3.17106100"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktm_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktm_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.90056800" y="-2.12377200" z="-1.40657900"/>
+      <bbMax x="1.90056800" y="2.12377300" z="1.40657900"/>
+      <bsCentre x="0.00000000" y="0.00000072" z="0.00000000"/>
+      <bsRadius value="3.17821200"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktn_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktn_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.34375100" y="-0.58881400" z="-0.98866600"/>
+      <bbMax x="0.34375100" y="0.58881400" z="0.98866600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.20096900"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktn_mesh_fridge</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktn_mesh_fridge</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.83872700" y="-0.91101910" z="-0.05436800"/>
+      <bbMax x="0.83872700" y="0.91101910" z="0.05436800"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.23950600"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktn_mesh_lights</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktn_mesh_lights</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.95491300" y="-0.07268600" z="-0.58049100"/>
+      <bbMax x="0.95080210" y="0.08383400" z="0.61299900"/>
+      <bsCentre x="-0.00205553" y="0.00557400" z="0.01625401"/>
+      <bsRadius value="1.12701700"/>
+      <hdTextureDist value="8.18000000"/>
+      <name>V_61_ktn_mesh_windows</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktn_mesh_windows</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.14947600" y="-4.07103200" z="-1.25900900"/>
+      <bbMax x="3.92576700" y="0.15058900" z="1.40426800"/>
+      <bsCentre x="2.03762100" y="-1.96022200" z="0.07262957"/>
+      <bsRadius value="3.12951700"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_ktn_over_decal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktn_over_decal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.32292900" y="-3.39287000" z="-1.26921200"/>
+      <bbMax x="3.96505100" y="-0.26602000" z="1.26921200"/>
+      <bsCentre x="2.14399000" y="-1.82944500" z="0.00000000"/>
+      <bsRadius value="2.71504300"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_ktn_over_normal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_ktn_over_normal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CTimeArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.05302800" y="-0.05302900" z="-0.09930900"/>
+      <bbMax x="0.05302800" y="0.05302900" z="0.09930900"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.12444400"/>
+      <hdTextureDist value="8.09000000"/>
+      <name>v_61_LampOnEm</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_61_LampOnEm</assetName>
+      <extensions/>
+      <timeFlags value="32505919"/>
+    </Item>
+    <Item type="CTimeArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.03699000" y="-0.03699200" z="-0.06972000"/>
+      <bbMax x="0.03699000" y="0.03699200" z="0.06625400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.00173301"/>
+      <bsRadius value="0.08578403"/>
+      <hdTextureDist value="8.09000000"/>
+      <name>v_61_LampOnEm2</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_61_LampOnEm2</assetName>
+      <extensions/>
+      <timeFlags value="32505919"/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.23068300" y="-0.23068300" z="-0.37615700"/>
+      <bbMax x="0.23068300" y="0.23068300" z="0.37615700"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.49791910"/>
+      <hdTextureDist value="5.50000000"/>
+      <name>V_61_lgn_mesh_wickerBasket</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lgn_mesh_wickerBasket</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.97760900" y="-1.62269300" z="-0.52797400"/>
+      <bbMax x="1.97761000" y="1.62269300" z="0.52797400"/>
+      <bsCentre x="0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="2.61205400"/>
+      <hdTextureDist value="8.97000000"/>
+      <name>V_61_lng_CanCrsh1</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_CanCrsh1</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.27164300" y="-1.80241900" z="-0.41234400"/>
+      <bbMax x="1.27164300" y="1.80241900" z="0.41474400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00119999"/>
+      <bsRadius value="2.24428300"/>
+      <hdTextureDist value="9.05000000"/>
+      <name>V_61_lng_Cigends</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_Cigends</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.12542500" y="-0.17806300" z="-0.01449800"/>
+      <bbMax x="1.12542500" y="0.17806300" z="0.01449800"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.13951700"/>
+      <hdTextureDist value="9.05000000"/>
+      <name>V_61_lng_Cigends2</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_Cigends2</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="131104"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.23989300" y="-0.87104000" z="-0.66343000"/>
+      <bbMax x="2.23989300" y="0.87104000" z="0.66343000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="2.49318500"/>
+      <hdTextureDist value="7.50000000"/>
+      <name>V_61_lng_mesh_bottles</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_bottles</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="30.00000000"/>
+      <flags value="12582912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.47102000" y="-0.34368200" z="-0.15061000"/>
+      <bbMax x="0.47102000" y="0.34368200" z="0.15061000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.60221300"/>
+      <hdTextureDist value="5.61000000"/>
+      <name>V_61_lng_mesh_Case</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_Case</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.58239200" y="-0.35335900" z="-0.26946800"/>
+      <bbMax x="0.58239300" y="0.35335900" z="0.26946800"/>
+      <bsCentre x="0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.73256850"/>
+      <hdTextureDist value="5.74000000"/>
+      <name>V_61_lng_mesh_coffeeTable</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_coffeeTable</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.60864400" y="-0.35187900" z="-0.37740600"/>
+      <bbMax x="0.60864400" y="0.35187900" z="0.70163200"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.16211300"/>
+      <bsRadius value="0.88619810"/>
+      <hdTextureDist value="5.80000000"/>
+      <name>V_61_lng_mesh_compTable</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_compTable</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.06248400" y="-3.56766400" z="-1.23348100"/>
+      <bbMax x="0.06248500" y="3.58348800" z="1.23348100"/>
+      <bsCentre x="0.00000050" y="0.00791192" z="0.00000000"/>
+      <bsRadius value="3.78287200"/>
+      <hdTextureDist value="10.68000000"/>
+      <name>V_61_lng_mesh_curtains</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_curtains</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.17383500" y="-4.07719700" z="-1.40661000"/>
+      <bbMax x="4.18799400" y="4.06589200" z="1.40661000"/>
+      <bsCentre x="0.00707960" y="-0.00565243" z="0.00000000"/>
+      <bsRadius value="6.00300600"/>
+      <hdTextureDist value="11.02000000"/>
+      <name>V_61_lng_mesh_delta</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_delta</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.75101400" y="-1.70054100" z="-0.17413500"/>
+      <bbMax x="0.75101400" y="1.70054100" z="0.17413500"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.86713300"/>
+      <hdTextureDist value="6.87000000"/>
+      <name>V_61_lng_mesh_drugs</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_drugs</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.78955000" y="-0.22914800" z="-0.54503300"/>
+      <bbMax x="0.78955000" y="0.22914800" z="0.54503300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.98638680"/>
+      <hdTextureDist value="5.99000000"/>
+      <name>V_61_lng_mesh_fireplace</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_fireplace</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.29397900" y="-0.30258600" z="-0.01517800"/>
+      <bbMax x="0.29397800" y="0.30258500" z="0.01517800"/>
+      <bsCentre x="-0.00000048" y="-0.00000051" z="0.00000000"/>
+      <bsRadius value="0.42215130"/>
+      <hdTextureDist value="5.43000000"/>
+      <name>V_61_lng_mesh_mags</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_mags</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.20836400" y="0.00000000" z="-0.24315000"/>
+      <bbMax x="0.20836300" y="0.00000000" z="0.24315000"/>
+      <bsCentre x="-0.00000049" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.32021440"/>
+      <hdTextureDist value="5.33000000"/>
+      <name>V_61_lng_mesh_pics</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_pics</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="10.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.14215900" y="-1.20145300" z="-0.00198300"/>
+      <bbMax x="1.14215900" y="1.20145300" z="0.00198300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.65771500"/>
+      <hdTextureDist value="6.66000000"/>
+      <name>V_61_lng_mesh_picsMess</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_picsMess</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="537002016"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.27253100" y="-0.34214500" z="-0.84959900"/>
+      <bbMax x="0.59877000" y="0.27843300" z="0.12353800"/>
+      <bsCentre x="0.16311950" y="-0.03185600" z="-0.36303050"/>
+      <bsRadius value="0.72306260"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_mesh_pizza</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_pizza</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.52082600" y="-1.69048400" z="-1.06014700"/>
+      <bbMax x="3.52082600" y="1.68815200" z="1.18957300"/>
+      <bsCentre x="0.00000000" y="-0.00116611" z="0.06471300"/>
+      <bsRadius value="4.06390500"/>
+      <hdTextureDist value="9.05000000"/>
+      <name>V_61_lng_mesh_props</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_props</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.10373100" y="-0.09472900" z="-0.05926900"/>
+      <bbMax x="0.10373100" y="0.09472900" z="0.05926900"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.15246810"/>
+      <hdTextureDist value="8.97000000"/>
+      <name>V_61_lng_mesh_shell_scuzz</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_shell_scuzz</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536870912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.31303200" y="-0.29396000" z="-0.25177600"/>
+      <bbMax x="0.31303300" y="0.29396000" z="0.25177600"/>
+      <bsCentre x="0.00000051" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.49778810"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_mesh_sideTable</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_sideTable</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.55538600" y="-0.55954500" z="-0.00094600"/>
+      <bbMax x="0.56232800" y="0.55713600" z="0.82228100"/>
+      <bsCentre x="0.00347096" y="-0.00120449" z="0.41066750"/>
+      <bsRadius value="0.89078100"/>
+      <hdTextureDist value="5.50000000"/>
+      <name>V_61_lng_mesh_SmallTable</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_SmallTable</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.71037600" y="-1.26020400" z="-0.46545500"/>
+      <bbMax x="1.71037500" y="1.26020400" z="0.46545500"/>
+      <bsCentre x="-0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="2.17489000"/>
+      <hdTextureDist value="8.97000000"/>
+      <name>V_61_lng_mesh_table_Scuz</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_table_Scuz</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.68513500" y="-0.30499800" z="-0.87938900"/>
+      <bbMax x="0.49927500" y="0.19888800" z="1.37912600"/>
+      <bsCentre x="-0.09293002" y="-0.05305502" z="0.24986840"/>
+      <bsRadius value="1.29977100"/>
+      <hdTextureDist value="5.80000000"/>
+      <name>V_61_lng_mesh_unitA</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_unitA</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.59220600" y="-0.48608100" z="-0.00508500"/>
+      <bbMax x="1.38637200" y="0.28650200" z="2.25562400"/>
+      <bsCentre x="0.39708300" y="-0.09978950" z="1.12526900"/>
+      <bsRadius value="1.55100500"/>
+      <hdTextureDist value="5.80000000"/>
+      <name>V_61_lng_mesh_unitA_swap</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_unitA_swap</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536870912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.76007800" y="-0.22524500" z="0.00000000"/>
+      <bbMax x="0.76007910" y="0.24593500" z="2.28205400"/>
+      <bsCentre x="0.00000054" y="0.01034500" z="1.14102700"/>
+      <bsRadius value="1.39110200"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_mesh_unitB</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_unitB</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.48487600" y="-0.19641100" z="-1.17460600"/>
+      <bbMax x="0.48487600" y="0.19641100" z="1.17460600"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.28583900"/>
+      <hdTextureDist value="6.29000000"/>
+      <name>V_61_lng_mesh_unitC</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_unitC</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.43484000" y="-0.15296800" z="-0.96250000"/>
+      <bbMax x="0.43483900" y="0.15296800" z="0.96250000"/>
+      <bsCentre x="-0.00000051" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.06718800"/>
+      <hdTextureDist value="6.07000000"/>
+      <name>V_61_lng_mesh_unitc_items</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_unitc_items</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.07326900" y="-3.41087600" z="-1.17886900"/>
+      <bbMax x="0.07327000" y="3.41087600" z="1.17886900"/>
+      <bsCentre x="0.00000050" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="3.60959500"/>
+      <hdTextureDist value="10.68000000"/>
+      <name>V_61_lng_mesh_windows</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_windows</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.24170200" y="-0.24998500" z="-0.98079600"/>
+      <bbMax x="1.21647300" y="0.05109800" z="1.05128900"/>
+      <bsCentre x="-0.01261449" y="-0.09944349" z="0.03524649"/>
+      <bsRadius value="1.60176800"/>
+      <hdTextureDist value="10.68000000"/>
+      <name>V_61_lng_mesh_windows2</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_mesh_windows2</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.71866200" y="-2.54277300" z="-0.40976700"/>
+      <bbMax x="1.71866200" y="2.46835600" z="0.40976700"/>
+      <bsCentre x="0.00000000" y="-0.03720856" z="0.00000000"/>
+      <bsRadius value="3.06587000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_dec_crum</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_dec_crum</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.67618200" y="-2.69145800" z="-0.01135900"/>
+      <bbMax x="1.67618300" y="2.69145800" z="0.01135900"/>
+      <bsCentre x="0.00000048" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="3.17075100"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_dec_crum1</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_dec_crum1</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8196"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.28332900" y="-4.06987200" z="-1.40393900"/>
+      <bbMax x="4.23339500" y="4.06987100" z="1.53761600"/>
+      <bsCentre x="-0.02496719" y="-0.00000048" z="0.06683850"/>
+      <bsRadius value="6.07130000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_decal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_decal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.68551800" y="-3.00126100" z="-0.41786500"/>
+      <bbMax x="4.18549900" y="3.73538100" z="1.96916300"/>
+      <bsCentre x="0.24999070" y="0.36705990" z="0.77564900"/>
+      <bsRadius value="5.31585300"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_decal_Scuz</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_decal_Scuz</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.01301300" y="-1.21899800" z="-0.84317500"/>
+      <bbMax x="3.01301300" y="1.21899800" z="0.81959300"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.01179099"/>
+      <bsRadius value="3.35490700"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_decal_shit</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_decal_shit</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.39460000" y="-0.57795400" z="-0.36283400"/>
+      <bbMax x="0.39460000" y="0.57795400" z="0.36283400"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.78828200"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_decal_wadeMess</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_decal_wadeMess</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-4.15445200" y="-4.07004600" z="-1.26921200"/>
+      <bbMax x="4.15329300" y="4.07004500" z="1.26921200"/>
+      <bsCentre x="-0.00057936" y="-0.00000048" z="0.00000000"/>
+      <bsRadius value="5.95238000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_normal</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_normal</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.11042500" y="-4.06775200" z="-1.40544800"/>
+      <bbMax x="-0.88677000" y="4.11288300" z="1.30306600"/>
+      <bsCentre x="-4.99859800" y="0.02256584" z="-0.05119097"/>
+      <bsRadius value="5.95582300"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_over_shadow</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_over_shadow</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="537002016"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.27440900" y="-0.27076000" z="-0.17570600"/>
+      <bbMax x="0.27441200" y="0.27075900" z="0.17570600"/>
+      <bsCentre x="0.00000149" y="-0.00000051" z="0.00000000"/>
+      <bsRadius value="0.42365600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_Pizza</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_Pizza</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536870912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.04308000" y="-0.17559200" z="-0.21119600"/>
+      <bbMax x="0.04308000" y="0.17559200" z="0.21119500"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="-0.00000051"/>
+      <bsRadius value="0.27801430"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_poster1</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_poster1</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="536870912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.03575600" y="-0.17559200" z="-0.22429200"/>
+      <bbMax x="0.03575600" y="0.17559200" z="0.22429200"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.28708520"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_lng_poster2</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_poster2</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.23890900" y="-1.29807700" z="-0.00970800"/>
+      <bbMax x="1.25756500" y="0.98094300" z="0.01170700"/>
+      <bsCentre x="0.00932801" y="-0.15856690" z="0.00099950"/>
+      <bsRadius value="1.69017600"/>
+      <hdTextureDist value="9.05000000"/>
+      <name>V_61_lng_rugdirt</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_lng_rugdirt</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="536870912"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.15374000" y="-1.72159900" z="-0.41952100"/>
+      <bbMax x="1.15373900" y="1.72159900" z="0.41952100"/>
+      <bsCentre x="-0.00000060" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="2.11447800"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_61_pizzaedge</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_pizzaedge</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-14.01320000" y="-3.13288200" z="-1.15934600"/>
+      <bbMax x="4.51810900" y="5.25426600" z="1.39030700"/>
+      <bsCentre x="-4.74754400" y="1.06069200" z="0.11548050"/>
+      <bsRadius value="10.25005000"/>
+      <hdTextureDist value="13.29000000"/>
+      <name>V_61_shell_doorFrames</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_shell_doorFrames</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.73364100" y="-0.10750200" z="-1.18900200"/>
+      <bbMax x="0.73364100" y="0.10750200" z="1.18900200"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.40125400"/>
+      <hdTextureDist value="13.29000000"/>
+      <name>V_61_shell_FdFrame</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_shell_FdFrame</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-9.26921500" y="-4.21588100" z="-1.40855100"/>
+      <bbMax x="9.26921500" y="4.07128600" z="1.41126500"/>
+      <bsCentre x="0.00000000" y="-0.07229758" z="0.00135708"/>
+      <bsRadius value="10.25063000"/>
+      <hdTextureDist value="13.29000000"/>
+      <name>V_61_shell_walls</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_shell_walls</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.13804700" y="-0.72349600" z="-0.73051200"/>
+      <bbMax x="0.91615600" y="0.30360600" z="1.32369000"/>
+      <bsCentre x="-0.11094550" y="-0.20994500" z="0.29658900"/>
+      <bsRadius value="1.54065200"/>
+      <hdTextureDist value="6.70000000"/>
+      <name>V_61_shell_windowBack</name>
+      <textureDictionary>v_61_txd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_61_shell_windowBack</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CMloArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bbMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.00000000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_Trevors</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>V_Trevors</physicsDictionary>
+      <assetType>ASSET_TYPE_ASSETLESS</assetType>
+      <assetName>V_Trevors</assetName>
+      <extensions/>
+      <mloFlags value="0"/>
+      <entities>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bd1_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1451982100"/>
+          <position x="6.58663200" y="1.90211500" z="1.40669800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bd1_over_normal</archetypeName>
+          <flags value="1572864"/>
+          <guid value="421750161"/>
+          <position x="6.90869900" y="1.90231200" z="1.41739500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_lightFan</archetypeName>
+          <flags value="18350082"/>
+          <guid value="3766190990"/>
+          <position x="6.92140500" y="1.75621500" z="2.81411600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bd1_mesh_curtains</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3657361681"/>
+          <position x="9.47294700" y="2.01390900" z="1.27529700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bd2_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3603134950"/>
+          <position x="7.45918600" y="-2.23859200" z="1.40669800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bed2_over_normal</archetypeName>
+          <flags value="1572864"/>
+          <guid value="402488892"/>
+          <position x="7.39488900" y="-2.23812300" z="1.41739900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_lightFan</archetypeName>
+          <flags value="18350082"/>
+          <guid value="2214137299"/>
+          <position x="7.43066600" y="-2.13224100" z="2.81411600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bd2_mesh_curtains</archetypeName>
+          <flags value="1572866"/>
+          <guid value="119577837"/>
+          <position x="7.45918600" y="-2.23859100" z="1.40669800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2640885475"/>
+          <position x="2.90302400" y="-3.25595700" z="1.40669900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_mesh_window</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3767854744"/>
+          <position x="2.54372400" y="-4.20030900" z="1.86330000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_mesh_sink</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4215740628"/>
+          <position x="3.63269400" y="-3.89074800" z="0.44331700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_mesh_toilet</archetypeName>
+          <flags value="1574914"/>
+          <guid value="4068999761"/>
+          <position x="2.33797600" y="-3.70344100" z="0.49130300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710680"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_mesh_bath</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2823288478"/>
+          <position x="4.62711300" y="-3.17999400" z="0.00002500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_mesh_mirror</archetypeName>
+          <flags value="1572866"/>
+          <guid value="662326903"/>
+          <position x="3.63412700" y="-4.18290000" z="1.69656600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_shell_windowBack</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2685091216"/>
+          <position x="2.62571000" y="-4.54127200" z="1.53263000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_over_decal</archetypeName>
+          <flags value="1572864"/>
+          <guid value="943714058"/>
+          <position x="2.98833600" y="-3.17548400" z="0.71679000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_bth_over_shadow</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3449651717"/>
+          <position x="3.79306200" y="-2.95759200" z="0.00537500"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.01889299" w="0.99982150"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Serv_BS_Shampoo</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1435183224"/>
+          <position x="5.05161800" y="-4.13158800" z="1.79049500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.97629590" w="0.21644000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Serv_BS_Cond</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3814131833"/>
+          <position x="4.96474600" y="-4.15317100" z="1.27547500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.76604410" w="0.64278800"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_PS_Toiletry_02</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3655591491"/>
+          <position x="5.04444800" y="-4.10563800" z="1.18004900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.96592580" w="0.25881900"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_PS_Toiletry_01</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3289970195"/>
+          <position x="5.05485300" y="-2.21447100" z="0.63780390"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.34202000" w="0.93969270"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_lng_mesh_props</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3831922912"/>
+          <position x="-4.39025800" y="2.24554000" z="1.06211900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_PlugSocket</archetypeName>
+          <flags value="18350082"/>
+          <guid value="243591635"/>
+          <position x="-2.36125900" y="3.93996900" z="0.36070700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_lng_over_normal</archetypeName>
+          <flags value="1572864"/>
+          <guid value="2766511767"/>
+          <position x="-4.57878700" y="-0.13150620" z="1.41739500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_lng_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="418558532"/>
+          <position x="-4.52318900" y="-0.12544300" z="1.40691200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_lng_mesh_windows</archetypeName>
+          <flags value="1572864"/>
+          <guid value="490944245"/>
+          <position x="-8.77079000" y="-0.13074110" z="1.17886900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_lightFan</archetypeName>
+          <flags value="18350082"/>
+          <guid value="231773125"/>
+          <position x="-1.78290200" y="1.75875700" z="2.81411600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_lightFan</archetypeName>
+          <flags value="18350082"/>
+          <guid value="4267074612"/>
+          <position x="-6.62357700" y="1.83180300" z="2.81411600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_lightFan</archetypeName>
+          <flags value="18350082"/>
+          <guid value="4261793178"/>
+          <position x="-6.62351200" y="-1.99185700" z="2.81411600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_lng_mesh_fireplace</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1292676825"/>
+          <position x="-6.45730500" y="-3.69972900" z="0.54174500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_lng_mesh_curtains</archetypeName>
+          <flags value="1572864"/>
+          <guid value="276182380"/>
+          <position x="-8.64869900" y="-0.14242800" z="1.27529700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_lng_mesh_windows2</archetypeName>
+          <flags value="1572864"/>
+          <guid value="304456695"/>
+          <position x="-1.81416800" y="3.99466500" z="1.51970800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_ILev_Trev_DoorFront</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3829518062"/>
+          <position x="1.27413300" y="-4.23741900" z="1.15184800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_hlw_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2529365826"/>
+          <position x="2.25451900" y="-0.11426500" z="1.40669900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_hlw_over_normals</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1900035917"/>
+          <position x="2.29982300" y="-1.19607800" z="1.41739400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Tre_lightFan</archetypeName>
+          <flags value="18350082"/>
+          <guid value="2875819047"/>
+          <position x="2.31997200" y="-0.08653700" z="2.81411600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_hlw_over_decal_mural</archetypeName>
+          <flags value="0"/>
+          <guid value="3301128576"/>
+          <position x="-0.51281800" y="-1.02151400" z="2.01246400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_fnt_mesh_props</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3439009275"/>
+          <position x="0.38992990" y="-3.19114900" z="0.81625080"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_fnt_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1465071402"/>
+          <position x="0.60459100" y="-3.17859000" z="1.40669800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_fnt_over_normal</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3672935250"/>
+          <position x="0.60557090" y="-3.17862900" z="1.41739300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_fdr_over_decal</archetypeName>
+          <flags value="0"/>
+          <guid value="1968676489"/>
+          <position x="2.27650100" y="-1.13863200" z="1.40569900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_ktn_mesh_lights</archetypeName>
+          <flags value="1572866"/>
+          <guid value="1911571419"/>
+          <position x="-2.62422800" y="-2.19258700" z="2.75724400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_ktm_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3791739371"/>
+          <position x="-2.52016200" y="-2.09838000" z="1.40605500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_ktn_mesh_fridge</archetypeName>
+          <flags value="1572866"/>
+          <guid value="858489534"/>
+          <position x="-0.99411100" y="-1.09259600" z="0.99135900"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_ktn_mesh_windows</archetypeName>
+          <flags value="1572866"/>
+          <guid value="4109122105"/>
+          <position x="-2.28900200" y="-4.23605800" z="1.85467700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_ktn_mesh_delta</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3450810782"/>
+          <position x="-2.51323800" y="-2.07972000" z="1.40688100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_ktn_over_normal</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1678301896"/>
+          <position x="-4.57882400" y="-0.13147000" z="1.41739500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_ktn_over_decal</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1489435099"/>
+          <position x="-4.53858600" y="-0.13134170" z="1.40719200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_kitc_mesh_lights</archetypeName>
+          <flags value="1572866"/>
+          <guid value="3614893672"/>
+          <position x="-4.29440800" y="-1.68733400" z="2.16624100"/>
+          <rotation x="-0.50000000" y="0.50000000" z="0.50000000" w="0.50000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_shell_doorFrames</archetypeName>
+          <flags value="1572864"/>
+          <guid value="996626111"/>
+          <position x="5.16617300" y="-1.16292300" z="1.15882800"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_shell_walls</archetypeName>
+          <flags value="1572864"/>
+          <guid value="211819310"/>
+          <position x="0.42222900" y="-0.13131700" z="1.40855100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_61_shell_FdFrame</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1476911480"/>
+          <position x="0.61957400" y="-4.27097800" z="1.19039500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="100.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+      </entities>
+      <rooms>
+        <Item>
+          <name>limbo</name>
+          <bbMin x="-8.84702400" y="-4.34719800" z="-0.00051796"/>
+          <bbMax x="9.69144300" y="4.09134300" z="2.81981600"/>
+          <blend value="1.00000000"/>
+          <timecycleName/>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="7"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            49
+            50
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>rm_bedroom01</name>
+          <bbMin x="-3.40169000" y="-2.33827900" z="-0.00590300"/>
+          <bbMax x="2.78226300" y="1.80054500" z="2.81411600"/>
+          <blend value="1.00000000"/>
+          <timecycleName>stc_trevors</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="2"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            0
+            1
+            2
+            3
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>rm_bedroom02</name>
+          <bbMin x="-2.49293300" y="-2.08852300" z="-0.00552601"/>
+          <bbMax x="2.18508100" y="1.99202200" z="2.81411600"/>
+          <blend value="1.00000000"/>
+          <timecycleName>stc_trevors</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="99"/>
+          <portalCount value="1"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            4
+            5
+            6
+            7
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>rm_Bathroom</name>
+          <bbMin x="-1.85060900" y="-2.10390700" z="0.00002500"/>
+          <bbMax x="1.82977600" y="1.02574300" z="2.85632000"/>
+          <blend value="1.00000000"/>
+          <timecycleName>stc_trevors</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="99"/>
+          <portalCount value="2"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            8
+            9
+            10
+            11
+            12
+            13
+            14
+            15
+            16
+            17
+            18
+            19
+            20
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>rm_Lounge</name>
+          <bbMin x="-2.50988700" y="-6.09282100" z="-0.00923500"/>
+          <bbMax x="6.07745200" y="2.15558200" z="2.94480800"/>
+          <blend value="1.00000000"/>
+          <timecycleName>stc_trevors</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="6"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            21
+            22
+            23
+            24
+            25
+            26
+            27
+            28
+            29
+            30
+            31
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>rm_hallway</name>
+          <bbMin x="-2.85964200" y="-3.99076200" z="-0.00006294"/>
+          <bbMax x="3.00910800" y="3.20764900" z="2.81411600"/>
+          <blend value="1.00000000"/>
+          <timecycleName>stc_trevors</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="5"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            33
+            34
+            35
+            36
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>rm_frontDoor</name>
+          <bbMin x="-1.08454200" y="-1.19125200" z="-0.00313301"/>
+          <bbMax x="1.05255400" y="1.41088500" z="2.81346000"/>
+          <blend value="1.00000000"/>
+          <timecycleName>stc_trevors</timecycleName>
+          <secondaryTimecycleName>dont_overide_sunpos</secondaryTimecycleName>
+          <flags value="96"/>
+          <portalCount value="2"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            37
+            38
+            39
+            40
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>rm_Kitchen</name>
+          <bbMin x="-2.11278000" y="-2.22494800" z="-0.00135005"/>
+          <bbMax x="1.84693200" y="2.12783000" z="2.89919000"/>
+          <blend value="1.00000000"/>
+          <timecycleName>stc_trevors</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="3"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            41
+            42
+            43
+            44
+            45
+            46
+            47
+            48
+          </attachedObjects>
+        </Item>
+      </rooms>
+      <portals>
+        <Item>
+          <roomFrom value="6"/>
+          <roomTo value="0"/>
+          <flags value="8256"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            1.40121500	-4.27647500	-0.12366590
+            1.40121500	-4.27647500	2.42633400
+            -0.14878510	-4.27647500	2.42633400
+            -0.14878510	-4.27647500	-0.12366590
+          </corners>
+          <attachedObjects content="int_array">
+            32
+            51
+          </attachedObjects>
+        </Item>
+        <Item>
+          <roomFrom value="4"/>
+          <roomTo value="0"/>
+          <flags value="9"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            -8.75935600	0.88777450	-0.12058810
+            -8.75935600	0.88777450	2.47941200
+            -8.75935600	2.94094900	2.47941200
+            -8.75935600	2.94094900	-0.12058810
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="4"/>
+          <roomTo value="0"/>
+          <flags value="9"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            -8.76464600	-2.98613100	-0.11683510
+            -8.76464600	-2.98613100	2.48316500
+            -8.76464600	-1.11144000	2.48316500
+            -8.76464600	-1.11144000	-0.11683510
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="4"/>
+          <roomTo value="0"/>
+          <flags value="9"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            -2.79852400	3.97724700	0.53426700
+            -2.79852400	3.97724700	2.23570700
+            -0.82552400	3.97724700	2.23570700
+            -0.82552400	3.97724700	0.53426700
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="5"/>
+          <roomTo value="1"/>
+          <flags value="64"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            4.19607700	1.68529400	-0.12218890
+            4.19607700	1.68529400	2.42781100
+            4.19607700	0.13529400	2.42781100
+            4.19607700	0.13529400	-0.12218890
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="5"/>
+          <roomTo value="2"/>
+          <flags value="64"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            5.16121600	-0.36176500	-0.12857200
+            5.16121600	-0.36176500	2.42142800
+            5.16121600	-1.91176500	2.42142800
+            5.16121600	-1.91176500	-0.12857200
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="5"/>
+          <roomTo value="3"/>
+          <flags value="64"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            3.66149200	-2.08190200	-0.12732700
+            3.66149200	-2.08190200	2.42267300
+            2.11149200	-2.08190200	2.42267300
+            2.11149200	-2.08190200	-0.12732700
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="5"/>
+          <roomTo value="4"/>
+          <flags value="0"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            -0.44235800	-0.15836750	-0.11311400
+            -0.44235800	-0.15836750	2.89187800
+            -0.44235800	1.96123000	2.89187800
+            -0.44235800	1.96123000	-0.11311400
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="5"/>
+          <roomTo value="6"/>
+          <flags value="0"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            1.48749000	-2.15465500	-0.16321710
+            1.48749000	-2.15465500	2.64852500
+            -0.20891800	-2.15465500	2.64852500
+            -0.20891800	-2.15465500	-0.16321710
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="7"/>
+          <roomTo value="4"/>
+          <flags value="0"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            -3.84548200	0.01321292	-0.15263750
+            -3.84548200	0.01321308	2.57022500
+            -1.29204600	0.01321308	2.57022500
+            -1.29204600	0.01321292	-0.15263750
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="7"/>
+          <roomTo value="4"/>
+          <flags value="0"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            -4.37074700	-3.56608700	-0.08964455
+            -4.37074700	-3.56608700	2.57688000
+            -4.37074700	-0.34789350	2.57688000
+            -4.37074700	-0.34789350	-0.08964455
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="1"/>
+          <roomTo value="0"/>
+          <flags value="9"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            9.61650700	3.13083900	-0.12218890
+            9.61650700	3.13083900	2.42781100
+            9.61650700	0.68983900	2.42781100
+            9.61650700	0.68983900	-0.12218890
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="7"/>
+          <roomTo value="0"/>
+          <flags value="9"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            -1.25832800	-4.27647500	1.11359400
+            -1.25832800	-4.27647500	2.14174000
+            -3.32691200	-4.27647500	2.14174000
+            -3.32691200	-4.27647500	1.11359400
+          </corners>
+          <attachedObjects/>
+        </Item>
+        <Item>
+          <roomFrom value="3"/>
+          <roomTo value="0"/>
+          <flags value="260"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            3.82295700	-4.18290000	1.50840300
+            3.82295700	-4.18290000	1.88459500
+            3.44282300	-4.18290000	1.88459500
+            3.44282300	-4.18290000	1.50840300
+          </corners>
+          <attachedObjects/>
+        </Item>
+      </portals>
+      <entitySets>
+        <Item>
+          <name>layer_debra_pic</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>layer_wade_shit</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>layer_whiskey</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>layer_mess_a</name>
+          <locations content="int_array">
+            3
+          </locations>
+          <entities>
+            <Item type="CEntityDef">
+              <archetypeName>V_61_bth_mesh_mess_A</archetypeName>
+              <flags value="1572866"/>
+              <guid value="3709422507"/>
+              <position x="2.54753000" y="-3.93356900" z="0.01623154"/>
+              <rotation x="0.00000000" y="0.00000000" z="0.47858510" w="0.87804110"/>
+              <scaleXY value="1.00000000"/>
+              <scaleZ value="1.00000000"/>
+              <parentIndex value="-1"/>
+              <lodDist value="100.00000000"/>
+              <childLodDist value="0.00000000"/>
+              <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+              <numChildren value="0"/>
+              <priorityLevel>PRI_REQUIRED</priorityLevel>
+              <extensions/>
+              <ambientOcclusionMultiplier value="255"/>
+              <artificialAmbientOcclusion value="255"/>
+              <tintValue value="0"/>
+            </Item>
+          </entities>
+        </Item>
+        <Item>
+          <name>swap_clean_apt</name>
+          <locations content="int_array">
+            3
+            7
+          </locations>
+          <entities>
+            <Item type="CEntityDef">
+              <archetypeName>V_61_bth_mesh_toiletRoll</archetypeName>
+              <flags value="1572866"/>
+              <guid value="1174607581"/>
+              <position x="1.90458800" y="-2.76718400" z="1.19141100"/>
+              <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710680"/>
+              <scaleXY value="1.00000000"/>
+              <scaleZ value="1.00000000"/>
+              <parentIndex value="-1"/>
+              <lodDist value="100.00000000"/>
+              <childLodDist value="0.00000000"/>
+              <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+              <numChildren value="0"/>
+              <priorityLevel>PRI_REQUIRED</priorityLevel>
+              <extensions/>
+              <ambientOcclusionMultiplier value="255"/>
+              <artificialAmbientOcclusion value="255"/>
+              <tintValue value="0"/>
+            </Item>
+            <Item type="CEntityDef">
+              <archetypeName>V_Res_Tre_FlatBasket</archetypeName>
+              <flags value="18350082"/>
+              <guid value="1281527076"/>
+              <position x="-0.92695100" y="-0.92496800" z="1.95395400"/>
+              <rotation x="0.00000000" y="0.00000000" z="0.08715597" w="0.99619470"/>
+              <scaleXY value="1.00000000"/>
+              <scaleZ value="1.00000000"/>
+              <parentIndex value="-1"/>
+              <lodDist value="-1.00000000"/>
+              <childLodDist value="0.00000000"/>
+              <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+              <numChildren value="0"/>
+              <priorityLevel>PRI_REQUIRED</priorityLevel>
+              <extensions/>
+              <ambientOcclusionMultiplier value="255"/>
+              <artificialAmbientOcclusion value="255"/>
+              <tintValue value="0"/>
+            </Item>
+          </entities>
+        </Item>
+        <Item>
+          <name>layer_mess_b</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>layer_mess_c</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>layer_torture</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>swap_sofa_a</name>
+          <locations content="int_array">
+            3
+          </locations>
+          <entities>
+            <Item type="CEntityDef">
+              <archetypeName>V_61_bth_mesh_toilet_clean</archetypeName>
+              <flags value="1572866"/>
+              <guid value="975884878"/>
+              <position x="2.33797600" y="-3.70344100" z="0.49130300"/>
+              <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710680"/>
+              <scaleXY value="1.00000000"/>
+              <scaleZ value="1.00000000"/>
+              <parentIndex value="-1"/>
+              <lodDist value="100.00000000"/>
+              <childLodDist value="0.00000000"/>
+              <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+              <numChildren value="0"/>
+              <priorityLevel>PRI_REQUIRED</priorityLevel>
+              <extensions/>
+              <ambientOcclusionMultiplier value="255"/>
+              <artificialAmbientOcclusion value="255"/>
+              <tintValue value="0"/>
+            </Item>
+          </entities>
+        </Item>
+        <Item>
+          <name>swap_sofa_b</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>swap_mrjam_c</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>swap_mrjam_b</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>swap_mrjam_a</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>swap_wade_sofa_a</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>swap_sofa_c</name>
+          <locations/>
+          <entities/>
+        </Item>
+        <Item>
+          <name>layer_sextoys_a</name>
+          <locations/>
+          <entities/>
+        </Item>
+      </entitySets>
+      <timeCycleModifiers/>
+    </Item>
+  </archetypes>
+  <name>v_int_61</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>

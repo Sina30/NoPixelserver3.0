@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="111.14100000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-6.31271000" y="-2.52525400" z="-1.59114900"/>
+      <bbMax x="6.30304700" y="2.50000000" z="1.49566400"/>
+      <bsCentre x="-0.00483180" y="-0.01262690" z="-0.04774270"/>
+      <bsRadius value="6.96310000"/>
+      <hdTextureDist value="72.24162000"/>
+      <name>nopixel_trailer</name>
+      <textureDictionary>v_26_trailerint</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>nopixel_trailer</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>nopixel_trailer</assetName>
+      <extensions/>
+    </Item>
+  </archetypes>
+  <name>nopixel_trailer</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>

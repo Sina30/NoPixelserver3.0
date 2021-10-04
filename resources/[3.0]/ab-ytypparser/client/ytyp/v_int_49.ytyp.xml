@@ -1,0 +1,958 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.00000500" y="-1.60799400" z="-0.18593100"/>
+      <bbMax x="-0.00000500" y="1.60799400" z="0.18593100"/>
+      <bsCentre x="-0.00000500" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="1.61870800"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MO_Emissives</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MO_Emissives</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="100.00000000"/>
+      <flags value="2048"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-200.63610000" y="-400.41200000" z="-1.43196500"/>
+      <bbMax x="200.69040000" y="400.48240000" z="1.49908500"/>
+      <bsCentre x="0.02716756" y="0.03520584" z="0.03355992"/>
+      <bsRadius value="500.38690000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>v_49_MotelDUCT005</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelDUCT005</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.47205100" y="-1.42010100" z="-0.01475200"/>
+      <bbMax x="1.17153900" y="1.03160800" z="0.89480190"/>
+      <bsCentre x="-0.15025600" y="-0.19424650" z="0.44002500"/>
+      <bsRadius value="1.85921600"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_MotelMP_Bed</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Bed</assetName>
+      <extensions>
+        <Item type="CExtensionDefSpawnPoint">
+          <name>V_49_MotelMP_Bed</name>
+          <offsetPosition x="0.41583250" y="1.98805800" z="0.48285600"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.81915230" w="0.57357610"/>
+          <spawnType>PROP_HUMAN_SEAT_BENCH</spawnType>
+          <pedType>any</pedType>
+          <group/>
+          <interior/>
+          <requiredImap/>
+          <availableInMpSp>kBoth</availableInMpSp>
+          <probability value="0.00000000"/>
+          <timeTillPedLeaves value="0.00000000"/>
+          <radius value="0.00000000"/>
+          <start value="0"/>
+          <end value="0"/>
+          <flags/>
+          <highPri value="false"/>
+          <extendedRange value="false"/>
+          <shortRange value="false"/>
+        </Item>
+        <Item type="CExtensionDefSpawnPoint">
+          <name>V_49_MotelMP_Bed</name>
+          <offsetPosition x="0.75598150" y="-1.93744500" z="0.48285600"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.57357700" w="0.81915170"/>
+          <spawnType>PROP_HUMAN_SEAT_BENCH</spawnType>
+          <pedType>any</pedType>
+          <group/>
+          <interior/>
+          <requiredImap/>
+          <availableInMpSp>kBoth</availableInMpSp>
+          <probability value="0.00000000"/>
+          <timeTillPedLeaves value="0.00000000"/>
+          <radius value="0.00000000"/>
+          <start value="0"/>
+          <end value="0"/>
+          <flags/>
+          <highPri value="false"/>
+          <extendedRange value="false"/>
+          <shortRange value="false"/>
+        </Item>
+        <Item type="CExtensionDefSpawnPoint">
+          <name>V_49_MotelMP_Bed</name>
+          <offsetPosition x="-0.97662350" y="-3.14135200" z="0.48285600"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="-0.04361901" w="0.99904820"/>
+          <spawnType>PROP_HUMAN_SEAT_BENCH</spawnType>
+          <pedType>any</pedType>
+          <group/>
+          <interior/>
+          <requiredImap/>
+          <availableInMpSp>kBoth</availableInMpSp>
+          <probability value="0.00000000"/>
+          <timeTillPedLeaves value="0.00000000"/>
+          <radius value="0.00000000"/>
+          <start value="0"/>
+          <end value="0"/>
+          <flags/>
+          <highPri value="false"/>
+          <extendedRange value="false"/>
+          <shortRange value="false"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.32599700" y="-0.16757900" z="-0.85363000"/>
+      <bbMax x="0.32599700" y="1.67356300" z="0.85363000"/>
+      <bsCentre x="0.00000000" y="0.75299190" z="0.00000000"/>
+      <bsRadius value="1.29707700"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_MotelMP_Clothes</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Clothes</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.04992800" y="-0.02483500" z="-0.77625300"/>
+      <bbMax x="1.04993200" y="0.02483400" z="0.77625300"/>
+      <bsCentre x="0.00000203" y="-0.00000050" z="0.00000000"/>
+      <bsRadius value="1.30596300"/>
+      <hdTextureDist value="6.00000000"/>
+      <name>V_49_MotelMP_Curtains</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Curtains</assetName>
+      <extensions>
+        <Item type="CExtensionDefParticleEffect">
+          <name>V_49_MotelMP_Curtains</name>
+          <offsetPosition x="-0.11431890" y="0.55491350" z="-0.25772500"/>
+          <offsetRotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <fxName>amb_dust_motes</fxName>
+          <fxType value="0"/>
+          <boneTag value="0"/>
+          <scale value="1.00000000"/>
+          <probability value="100"/>
+          <flags value="0"/>
+          <color value="0xFFFFFFFF"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.73701900" y="0.00000000" z="-0.58949500"/>
+      <bbMax x="0.73700390" y="0.00000100" z="0.58949500"/>
+      <bsCentre x="-0.00000751" y="0.00000050" z="0.00000000"/>
+      <bsRadius value="0.94376390"/>
+      <hdTextureDist value="6.00000000"/>
+      <name>V_49_MotelMP_Glass</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Glass</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.81034600" y="4.30784400" z="-0.77409800"/>
+      <bbMax x="1.34793000" y="4.31190800" z="0.57963800"/>
+      <bsCentre x="0.26879200" y="4.30987600" z="-0.09723002"/>
+      <bsRadius value="1.27385000"/>
+      <hdTextureDist value="7.00000000"/>
+      <name>V_49_MotelMP_Mirror</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Mirror</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.59441400" y="-4.23035200" z="-1.34494400"/>
+      <bbMax x="2.59441300" y="4.21790900" z="1.34494400"/>
+      <bsCentre x="-0.00000048" y="-0.00622129" z="0.00000000"/>
+      <bsRadius value="5.13645200"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MotelMP_Reflect</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelMP_Reflect</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="30.00000000"/>
+      <flags value="9216"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.00080900" y="-0.35648900" z="-0.20798800"/>
+      <bbMax x="0.00414200" y="0.35649000" z="0.20798800"/>
+      <bsCentre x="0.00166650" y="0.00000048" z="0.00000000"/>
+      <bsRadius value="0.41273460"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>V_49_MotelMP_screen</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary>v_int_49</clipDictionary>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_screen</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-10000.60000000" y="-10000.34000000" z="-1.34490000"/>
+      <bbMax x="10000.60000000" y="10000.22000000" z="1.34490000"/>
+      <bsCentre x="-0.00000048" y="-0.06406689" z="0.00000000"/>
+      <bsRadius value="0.18210000"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MotelMP_Shell</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>v_int_49</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelMP_Shell</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-2.59692500" y="-4.22466800" z="-1.23977600"/>
+      <bbMax x="2.59691700" y="4.22466900" z="1.23977600"/>
+      <bsCentre x="-0.00000405" y="0.00000048" z="0.00000000"/>
+      <bsRadius value="5.11164000"/>
+      <hdTextureDist value="7.00000000"/>
+      <name>V_49_MotelMP_Stuff</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>V_49_MotelMP_Stuff</assetName>
+      <extensions>
+        <Item type="CExtensionDefLightShaft">
+          <name>V_49_MotelMP_Stuff</name>
+          <offsetPosition x="0.81764220" y="-4.22238100" z="0.45797000"/>
+          <cornerA x="0.78264220" y="-4.22238100" z="1.03067600"/>
+          <cornerB x="0.78264220" y="-4.22238100" z="-0.11473560"/>
+          <cornerC x="0.85264230" y="-4.22238100" z="-0.11473560"/>
+          <cornerD x="0.85264230" y="-4.22238100" z="1.03067600"/>
+          <direction x="-0.52883050" y="0.78774750" z="-0.31589890"/>
+          <directionAmount value="1.00000000"/>
+          <length value="3.53700000"/>
+          <fadeInTimeStart value="0.00000000"/>
+          <fadeInTimeEnd value="0.00000000"/>
+          <fadeOutTimeStart value="0.00000000"/>
+          <fadeOutTimeEnd value="0.00000000"/>
+          <fadeDistanceStart value="0.00000000"/>
+          <fadeDistanceEnd value="0.00000000"/>
+          <color value="0xFFFFFFFF"/>
+          <intensity value="2.50000000"/>
+          <flashiness value="0"/>
+          <flags value="35"/>
+          <densityType>LIGHTSHAFT_DENSITYTYPE_QUADRATIC_GRADIENT</densityType>
+          <volumeType>LIGHTSHAFT_VOLUMETYPE_SHAFT</volumeType>
+          <softness value="0.00000000"/>
+          <scaleBySunIntensity value="true"/>
+        </Item>
+      </extensions>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="20.00000000"/>
+      <flags value="8192"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.76815400" y="-0.06405800" z="-0.61835500"/>
+      <bbMax x="0.76814500" y="0.04115300" z="0.61835500"/>
+      <bsCentre x="-0.00000453" y="-0.01145250" z="0.00000000"/>
+      <bsRadius value="0.98751400"/>
+      <hdTextureDist value="8.00000000"/>
+      <name>v_49_MotelMP_winframe</name>
+      <textureDictionary>v_49_motelmptxd</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>v_49_MotelMP_winframe</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CMloArchetypeDef">
+      <lodDist value="30.00000000"/>
+      <flags value="0"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1000.00000000" y="-1000.00000000" z="-100.00000000"/>
+      <bbMax x="1000.00000000" y="1000.00000000" z="1000.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.00000000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>v_Motel_MP</name>
+      <textureDictionary/>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_ASSETLESS</assetType>
+      <assetName>v_Motel_MP</assetName>
+      <extensions/>
+      <mloFlags value="0"/>
+      <entities>
+        <Item type="CEntityDef">
+          <archetypeName>V_ILev_MLDoor02</archetypeName>
+          <flags value="555221026"/>
+          <guid value="3770398919"/>
+          <position x="1.16725200" y="2.76293200" z="1.15000100"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="0.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Bed</archetypeName>
+          <flags value="1572866"/>
+          <guid value="2614595163"/>
+          <position x="2.10511800" y="-0.19622040" z="0.01914400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FA_trainer02R</archetypeName>
+          <flags value="555221026"/>
+          <guid value="1174744737"/>
+          <position x="-1.36383100" y="3.38640000" z="0.42444200"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.42261880" w="0.90630750"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_FA_trainer02L</archetypeName>
+          <flags value="555221026"/>
+          <guid value="1327200666"/>
+          <position x="-1.34890700" y="3.19043000" z="0.42396300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.38268290" w="0.92387980"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Sink_06</archetypeName>
+          <flags value="555220994"/>
+          <guid value="814817518"/>
+          <position x="1.79850800" y="4.30968100" z="0.00459700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_chair_04a</archetypeName>
+          <flags value="555221026"/>
+          <guid value="711256172"/>
+          <position x="2.81944300" y="-2.11192900" z="0.00459700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.81915230" w="0.57357610"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Kettle</archetypeName>
+          <flags value="555220994"/>
+          <guid value="2886456981"/>
+          <position x="-1.69755600" y="1.00256300" z="0.85918400"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.50000030" w="0.86602520"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_TV_06</archetypeName>
+          <flags value="559415330"/>
+          <guid value="663703413"/>
+          <position x="-1.48686200" y="-0.16845320" z="0.95977000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_TV_Cabinet_03</archetypeName>
+          <flags value="555220994"/>
+          <guid value="3511812462"/>
+          <position x="-1.62913500" y="-0.18374440" z="-0.00169000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_LD_Toilet_01</archetypeName>
+          <flags value="555220994"/>
+          <guid value="3434040055"/>
+          <position x="2.93478400" y="3.22601700" z="0.33201500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_chair_04a</archetypeName>
+          <flags value="555221026"/>
+          <guid value="47419494"/>
+          <position x="1.14271500" y="-3.29376700" z="0.00459700"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.99904820" w="-0.04361901"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Game_Clock_02</archetypeName>
+          <flags value="555220994"/>
+          <guid value="2051367109"/>
+          <position x="-1.87785300" y="-0.16394810" z="2.11366300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.70710690" w="-0.70710690"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Stuff</archetypeName>
+          <flags value="1572866"/>
+          <guid value="268353303"/>
+          <position x="0.68925480" y="0.34164520" z="1.23977500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_J_Phone</archetypeName>
+          <flags value="555220994"/>
+          <guid value="2462341418"/>
+          <position x="3.08802800" y="-1.47203400" z="0.64307400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.90996130" w="0.41469310"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Curtains</archetypeName>
+          <flags value="5767170"/>
+          <guid value="1767311811"/>
+          <position x="1.55156000" y="-3.83100100" z="1.63457500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Glass</archetypeName>
+          <flags value="1572866"/>
+          <guid value="558616740"/>
+          <position x="1.43190000" y="-3.92315100" z="1.69329600"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_FH_IronBrd</archetypeName>
+          <flags value="555221027"/>
+          <guid value="608973467"/>
+          <position x="-1.08596800" y="3.89983400" z="0.97723100"/>
+          <rotation x="0.03084398" y="0.03084398" z="-0.70643370" w="0.70643370"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>Prop_Iron_01</archetypeName>
+          <flags value="555221026"/>
+          <guid value="224884592"/>
+          <position x="-1.24203500" y="3.31339400" z="0.76368300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.60876140" w="0.79335340"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Clothes</archetypeName>
+          <flags value="1572866"/>
+          <guid value="589440497"/>
+          <position x="-1.36030600" y="2.42217600" z="0.99311100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_Mirror</archetypeName>
+          <flags value="1572866"/>
+          <guid value="299421939"/>
+          <position x="0.68925480" y="0.24081420" z="1.23977500"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_ILev_MotelDoorCSO</archetypeName>
+          <flags value="555221024"/>
+          <guid value="3609508934"/>
+          <position x="-1.45536800" y="-3.96160300" z="1.15000100"/>
+          <rotation x="0.00000000" y="0.00000000" z="1.00000000" w="-0.00000100"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_49_MO_Emissives</archetypeName>
+          <flags value="5767168"/>
+          <guid value="2112095521"/>
+          <position x="3.28016700" y="-0.18986510" z="1.76554400"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_49_MotelMP_winframe</archetypeName>
+          <flags value="5767168"/>
+          <guid value="3243476941"/>
+          <position x="1.43699600" y="-3.92707100" z="1.68970000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_49_MotelMP_screen</archetypeName>
+          <flags value="1572864"/>
+          <guid value="2726712865"/>
+          <position x="-1.39912400" y="-0.16899110" z="0.99435000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="30.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_TA_Mug</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3007179898"/>
+          <position x="-1.49012800" y="1.25818200" z="0.91840100"/>
+          <rotation x="0.00000000" y="0.00000000" z="-0.50000030" w="0.86602520"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Ret_TA_Mug</archetypeName>
+          <flags value="1572864"/>
+          <guid value="2874984937"/>
+          <position x="-1.60273700" y="1.39317800" z="0.91840100"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.60876140" w="0.79335340"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>V_Res_Binder</archetypeName>
+          <flags value="1572864"/>
+          <guid value="1823108995"/>
+          <position x="-1.56996200" y="1.69115000" z="0.88948000"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.99144490" w="-0.13052600"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="-1.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+        <Item type="CEntityDef">
+          <archetypeName>v_49_MotelMP_Shell</archetypeName>
+          <flags value="1572864"/>
+          <guid value="3592793201"/>
+          <position x="0.69067380" y="0.34826090" z="1.34494300"/>
+          <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+          <scaleXY value="1.00000000"/>
+          <scaleZ value="1.00000000"/>
+          <parentIndex value="-1"/>
+          <lodDist value="20.00000000"/>
+          <childLodDist value="0.00000000"/>
+          <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+          <numChildren value="0"/>
+          <priorityLevel>PRI_REQUIRED</priorityLevel>
+          <extensions/>
+          <ambientOcclusionMultiplier value="255"/>
+          <artificialAmbientOcclusion value="255"/>
+          <tintValue value="0"/>
+        </Item>
+      </entities>
+      <rooms>
+        <Item>
+          <name>limbo</name>
+          <bbMin x="-1.94542700" y="-4.06373300" z="-0.08702206"/>
+          <bbMax x="3.38111000" y="4.83066600" z="2.84402800"/>
+          <blend value="1.00000000"/>
+          <timecycleName/>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="1"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            27
+            28
+            29
+            30
+          </attachedObjects>
+        </Item>
+        <Item>
+          <name>MotelMP_Room</name>
+          <bbMin x="-2000.00800000" y="-5000.40800000" z="-10.00110000"/>
+          <bbMax x="3000.22800000" y="3000.23100000" z="20.47955000"/>
+          <blend value="1.00000000"/>
+          <timecycleName>int_motelroom</timecycleName>
+          <secondaryTimecycleName/>
+          <flags value="96"/>
+          <portalCount value="1"/>
+          <floorId value="0"/>
+          <exteriorVisibiltyDepth value="-1"/>
+          <attachedObjects content="int_array">
+            0
+            1
+            2
+            3
+            4
+            5
+            6
+            7
+            8
+            9
+            10
+            11
+            12
+            13
+            14
+            15
+            16
+            17
+            18
+            19
+            20
+            21
+            22
+            23
+            24
+            25
+            26
+          </attachedObjects>
+        </Item>
+      </rooms>
+      <portals>
+        <Item>
+          <roomFrom value="1"/>
+          <roomTo value="0"/>
+          <flags value="4"/>
+          <mirrorPriority value="0"/>
+          <opacity value="0"/>
+          <audioOcclusion value="0"/>
+          <corners content="vector3_array">
+            2000.06600000	4000.55100000	1.82676500
+            2000.06600000	4000.55100000	0.45831690
+            -1000.14500000	4000.55100000	0.45831690
+            -1000.14500000	4000.55100000	1.82676500
+          </corners>
+          <attachedObjects/>
+        </Item>
+      </portals>
+      <entitySets/>
+      <timeCycleModifiers/>
+    </Item>
+  </archetypes>
+  <name>v_int_49</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>
