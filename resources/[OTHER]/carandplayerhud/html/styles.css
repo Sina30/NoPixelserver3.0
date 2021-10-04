@@ -1,0 +1,435 @@
+body {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently */
+    overflow: hidden;
+    font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+#statusHud {
+    width: 275px;
+    position: absolute;
+    bottom: 0.25%;
+    left: 2.8%;
+}
+
+.hidden {
+    display: none;
+}
+
+svg {
+    width: 53;
+    height: 53;
+}
+
+.bar {
+    width: 10%;
+    min-height: 6%;
+    float: left;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.barHealth {
+    width: 10%;
+    min-height: 6%;
+    float: left;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.barOxy {
+    width: calc(12.5% - 4px - 1%);
+    min-height: 25.5px;
+    float: left;
+    margin-right: 1%;
+    margin-left: 12%;
+}
+
+.barStresss {
+    position: relative; 
+    left:108px;
+    margin-left: 12%;
+}
+
+.barVoice {
+    position: absolute;
+    width: calc(12.5% - 4px - 1%);
+    min-height: 25.5px;
+    left: -95%;
+}
+
+.transmitting {
+    stroke: #EE2727 !important;
+}
+
+.transmitting2 {
+    fill: #C05D5D !important;
+}
+
+.dev {
+    position: absolute;
+    left: 105.7%;
+}
+
+.dev>div {
+    width: 4px;
+    height: 4px;
+    border: 2px solid #F55713;
+    background: #F55713;
+    border-radius: 50%;
+    /* background-color: rgba(0,0,0,0.4); */
+    margin-bottom: 2px;
+}
+
+.devDebug {
+    position: absolute;
+    left: 109.5%;
+}
+
+.devDebug>div {
+    width: 4px;
+    height: 4px;
+    border: 2px solid #1B6CE6;
+    background: #1B6CE6;
+    border-radius: 50%;
+    margin-bottom: 2px;
+}
+
+.barIconHealth {
+    position: relative;
+    width: 7%;
+    height: 35%;
+    bottom: 29%;
+    left: 6.8%;
+    position: absolute;
+    z-index: 99;
+}
+
+.barIconArmor {
+    position: relative;
+    width: 6.5%;
+    height: 35%;
+    bottom: 31%;
+    left: 27%;
+    position: absolute;
+    z-index: 99;
+}
+
+.barIconYemek {
+    position: relative;
+    width: 6.5%;
+    height: 32.5%;
+    bottom: 33%;
+    left: 47%;
+    position: absolute;
+    z-index: 99;
+}
+
+.barIconSu {
+    position: relative;
+    width: 7%;
+    height: 35%;
+    bottom: 32%;
+    left: 66.8%;
+    position: absolute;
+    z-index: 99;
+}
+
+.barIconOxy {
+    position: relative;
+    width: 7%;
+    height: 35%;
+    bottom: 32%;
+    left: 87%;
+    position: absolute;
+    z-index: 99;
+}
+
+.barIconStress {
+    position: relative;
+    width: 7%;
+    height: 35%;
+    bottom: 32%;
+    left: 106%;
+    position: absolute;
+    z-index: 99;
+    margin-left: 1%;
+}
+
+.barIconVoice {
+    bottom: 30%;
+    width: 19;
+    height: 19;
+    left: -12.9%;
+    position: absolute;
+    z-index: 99;
+}
+
+.corners {
+    width: calc(12.5% - 4px);
+    height: 29px;
+    position: absolute;
+    z-index: 100;
+    margin: -2px;
+    opacity: 0;
+}
+
+.danger {
+    filter: brightness(0) saturate(100%) invert(23%) sepia(88%) saturate(7076%) hue-rotate(358deg) brightness(100%) contrast(122%);
+}
+
+.dangerGrad {
+    background: rgb(207, 0, 0) !important;
+}
+
+@media(min-width:2100px) {
+    .stat,
+    .stat .icon {
+        height: 44px;
+    }
+}
+
+@media(min-width:2200px) {
+    .stat,
+    .stat .icon {
+        height: 46px;
+    }
+    .status {
+        width: 280px;
+    }
+    .stat {
+        width: 251px;
+    }
+    .stat span {
+        font-size: 14px;
+        line-height: 15px;
+        margin-top: 2px;
+    }
+}
+
+@media(min-width:2300px) {
+    .stat,
+    .stat .icon {
+        height: 48px;
+    }
+}
+
+@media(min-width:2400px) {
+    .stat,
+    .stat .icon {
+        height: 50px;
+    }
+    .status {
+        width: 300px;
+    }
+    .stat {
+        width: 271px;
+    }
+}
+
+@media(min-width:2500px) {
+    .stat,
+    .stat .icon {
+        height: 52px;
+    }
+}
+
+@media(max-width:1800px) {
+    .stat,
+    .stat .icon {
+        height: 38px;
+    }
+}
+
+@media(max-width:1700px) {
+    .stat,
+    .stat .icon {
+        height: 36px;
+    }
+}
+
+@media(max-width:1600px) {
+    .stat,
+    .stat .icon {
+        height: 34px;
+    }
+    .status {
+        width: 240px;
+    }
+    .stat {
+        width: 211px;
+    }
+    .stat span {
+        font-size: 12px;
+        line-height: 12px;
+        margin-top: 2px;
+    }
+    .stat .icon img {
+        margin-top: 2px;
+    }
+}
+
+@media(max-width:1500px) {
+    .stat,
+    .stat .icon {
+        height: 32px;
+    }
+}
+
+@media(max-width:1400px) {
+    .stat,
+    .stat .icon {
+        height: 30px;
+    }
+    .status {
+        width: 225px;
+    }
+    .stat {
+        width: 196px;
+        margin-bottom: 4px;
+    }
+}
+
+@media(max-width:1300px) {
+    .stat,
+    .stat .icon {
+        height: 28px;
+    }
+}
+
+@media(max-width:1200px) {
+    .stat,
+    .stat .icon {
+        height: 26px;
+    }
+    .stat span {
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .status {
+        width: 200px;
+    }
+    .stat {
+        width: 171px;
+    }
+}
+
+@media(max-width:1100px) {
+    .stat,
+    .stat .icon {
+        height: 24px;
+    }
+}
+
+.backhealth {
+    z-index: 999;
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.backarmor {
+    z-index: 999;
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.backburger {
+    z-index: 999;
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.backwater {
+    z-index: 999;
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.backstress {
+    z-index: 999;
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.backvoice {
+    z-index: 999;
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.progress {
+    -webkit-transition: 0.35s stroke-dashoffset;
+    -o-transition: 0.35s stroke-dashoffset;
+    transition: 0.35s stroke-dashoffset;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.backgroundCircle,
+.outer {
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+    -webkit-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}

@@ -1,0 +1,73 @@
+<html>
+
+<head>
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+    <div id="statusHud">
+        <img class="barIconVoice" src="img/microphone.svg"></img>
+        <div class="barHealth">
+            <svg>
+                <circle id="progress-heart" class="backhealth" fill="#498949" opacity="0.45" r="23" cx="25" cy="25"/>
+                <circle class="backhealth" fill="#1c1c20" r="17" cx="25" cy="25"/>
+                <circle id="progress-healthr" class="progress progress-health" stroke="#498949" stroke-width="6" style="stroke-opacity: 1;" fill="none" r="20" cx="25" cy="25" stroke-dasharray="80 30" stroke-dashoffset="0"/>
+            </svg>
+        </div>
+        <img class="barIconHealth" src="img/heart.svg"></img>
+        <div class="bar">
+            <svg style="position: relative; left:22px;">
+                <circle class="backarmor" fill="#1565ac" opacity="0.45" r="23" cx="25" cy="25"/>
+                <circle class="backarmor" fill="#1c1c20" r="17" cx="25" cy="25"/>
+                <circle class="progress progress-armor" stroke="#1565ac" stroke-width="6" style="stroke-opacity: 1;" fill="none" r="20" cx="25" cy="25" stroke-dasharray="80 30" stroke-dashoffset="0"/>
+            </svg>
+
+        </div>
+        <img class="barIconArmor" src="img/shield.svg"></img>
+        <div class="bar">
+            <svg style="position: relative; left:44px;">
+                <circle class="backburger" fill="#e67013" opacity="0.45" r="23" cx="25" cy="25"/>
+                <circle id="progress-hungerr" class="backburger" fill="#1c1c20" r="17" cx="25" cy="25"/>
+                <circle class="progress progress-burger" stroke="#e67013" stroke-width="6" style="stroke-opacity: 1;" fill="none" r="20" cx="25" cy="25" stroke-dasharray="80 30" stroke-dashoffset="0"/>
+            </svg>
+        </div>
+        <img class="barIconYemek" src="img/burger.svg"></img>
+        <div class="bar">
+            <svg style="position: relative; left:66px;">
+                <circle class="backwater" fill="#1999d1" opacity="0.45" r="23" cx="25" cy="25"/>
+                <circle id="progress-thirstt" class="backwater" fill="#1c1c20" r="17" cx="25" cy="25"/>
+                <circle class="progress progress-water" stroke="#1999d1" stroke-width="6" style="stroke-opacity: 1;" fill="none" r="20" cx="25" cy="25" stroke-dasharray="80 30" stroke-dashoffset="0"/>
+            </svg>
+        </div>
+        <img class="barIconSu" src="img/water.svg"></img>
+        <div id="oxygen-circle" class="bar">
+            <svg style="position: relative; left:88px;">
+                <circle class="backstress" fill="#495A74" opacity="0.45" r="23" cx="25" cy="25"/>
+                <circle class="backstress" fill="#1c1c20" r="17" cx="25" cy="25"/>
+                <circle class="progress progress-oxygen" stroke="#495A74" stroke-width="6" style="stroke-opacity: 1;" fill="none" r="20" cx="25" cy="25" stroke-dasharray="80 30" stroke-dashoffset="0"/>
+            </svg>
+        </div>
+        <img id="progress-oxygens" class="barIconOxy" src="img/oxygen.svg"></img>
+        <div class="bar">
+            <svg id="stress-circle" class="barStresss">
+                <circle class="backstress" fill="#984447" opacity="0.45" r="23" cx="25" cy="25"/>
+                <circle class="backstress" fill="#1c1c20" r="17" cx="25" cy="25"/>
+                <circle class="progress progress-stress" stroke="#984447" stroke-width="6" style="stroke-opacity: 1;" fill="none" r="20" cx="25" cy="25" stroke-dasharray="80 30" stroke-dashoffset="0"/>
+            </svg>
+        </div>
+        <img id= "stressLeft" class="barIconStress" src="img/brain1.svg" style= ""></img>
+        <div id="varSetVoice" class="barVoice">
+            <svg style="position: relative; left:210px;" class="voice">
+                <circle id="back-voicer" class="backvoice" fill="#A5A5A5" opacity="0.55" r="23" cx="25" cy="25"/>
+                <circle class="backvoice" fill="#1c1c20" r="17" cx="25" cy="25"/>
+                <circle id="progress-voicer" class="progress progress-voice" stroke="#DEDEDE" stroke-width="6" style="stroke-opacity: 1;" fill="none" r="20" cx="25" cy="25" stroke-dasharray="80 30" stroke-dashoffset="0"/>
+            </svg>
+        </div>
+    </div>
+
+
+<script src="script.js" type="text/javascript"></script>
+
+</html>
